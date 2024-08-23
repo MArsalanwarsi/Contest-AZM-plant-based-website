@@ -3,10 +3,8 @@ import {
   loginbtn,
   shoppingcart,
   footer,
-  spintimer,
   category_database,
 } from "../Export file/export.js";
-spintimer();
 document.querySelector(".navimport").innerHTML = nav;
 loginbtn();
 shoppingcart();

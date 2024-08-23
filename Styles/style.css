@@ -48,9 +48,10 @@ video source {
   letter-spacing: 15px;
   text-shadow: 3px 5px black;
 }
-.content p {
+.content h4 {
   letter-spacing: 5px;
   text-shadow: 3px 3px black;
+  margin-bottom: 25px;
 }
 
 #color_change_slider img {

@@ -327,14 +327,5 @@ let category_database = () => {
       footer_cat.innerHTML = footer_cat_data;
     });
 };
-let spintimer = () => {
-  setTimeout(() => {
-    try {
-      document.querySelector("#spinloader").style.display = "none";
-    } catch (error) {
-      console.error(error);
-    }
-  }, 2000);
-};
 
-export { nav, loginbtn, shoppingcart, footer, spintimer, category_database };
+export { nav, loginbtn, shoppingcart, footer, category_database };

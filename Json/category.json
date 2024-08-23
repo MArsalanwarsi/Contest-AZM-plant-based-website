@@ -1,7 +1,16 @@
 {
   "House plants": [
     {
-      "Succulents": [],
+      "Succulents": [
+        {
+          "id": 1,
+          "name": "Aloe Vera",
+          "price": 100,
+          "m_descrip": "",
+          "s_description": "",
+          "img": "./image/aloe-vera.jpg"
+        }
+      ],
       "Cacti": [],
       "Air plants": [],
       "Ferns": [],
@@ -19,7 +28,16 @@
   ],
   "Seeds and Bulbs": [
     {
-      "Flower seeds": [],
+      "Flower seeds": [
+         {
+           "id": 1,
+           "name": "Aloe Vera",
+           "price": 100,
+           "m_descrip": "",
+           "s_description": "",
+           "img": "./image/aloe-vera.jpg"
+         }
+      ],
       "Vegetable seeds": [],
       "Herb seeds": [],
       "Bulbs for seasonal flowers": []

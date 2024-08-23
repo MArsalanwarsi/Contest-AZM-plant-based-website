@@ -19,13 +19,6 @@
 </head>
 
 <body>
-    <div class="position-absolute top-0 bottom-0 start-0 end-0" style="z-index: 99;" id="spinloader">
-        <div class="d-flex justify-content-center align-items-center min-vh-100 bg-white">
-            <div class="spinner-grow text-success fs-1" role="status" style="width: 5rem; height: 5rem;">
-                <span class="visually-hidden">Loading...</span>
-            </div>
-        </div>
-    </div>
     <a href="/Feedback/index.html">
         <div class="position-fixed top-0 end-0" style="z-index: 80;margin-top: 300px;" role="button">
             <div class="box fw-bold feedbackbox"
@@ -36,31 +29,85 @@
     <div class="container-fluid navimport"></div>
     <main>
         <div class="container-fluid p-5">
-            <div
-                class="container-fluid d-flex justify-content-center flex-column align-items-center gap-5 border border-1 border-black p-3">
-                <div class="row w-100 border-bottom ">
+            <div class="row">
+                <div class="col-lg-3 col-md-3 col-sm-12 d-none d-md-block d-lg-block">
+                    <div class="card">
+                        <article class="card-group-item">
+                            <header class="card-header">
+                                <h6 class="title">Selection </h6>
+                            </header>
+                            <div class="filter-content">
+                                <div class="card-body filter_cat">
 
-
-                    <div class="col-md-6 col-lg-6 col-sm-12 d-flex justify-content-start align-items-center p-3">
-                        <button class="border-0 btn threecol"><i class="bi bi-grid-3x2 bg-white"></i></button>
-                        <button class="border-0 btn fivecol"><i class="bi bi-grid bg-white"></i></button>
-                        <button class="border-0 btn twelvecol"><i class="bi bi-layout-split bg-white"></i></button>
-
+                                </div>
+                            </div>
+                        </article>
+                        <article class="card-group-item">
+                            <header class="card-header">
+                                <h6 class="title">Price Range </h6>
+                            </header>
+                            <div class="filter-content">
+                                <div class="card-body">
+                                    <div class="form-row">
+                                        <div class="form-group col-md-6">
+                                            <label>Min</label>
+                                            <input type="number" class="form-control" id="inputEmail4" placeholder="$0">
+                                        </div>
+                                        <div class="form-group col-md-6 text-right">
+                                            <label>Max</label>
+                                            <input type="number" class="form-control" placeholder="$1,0000">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </article>
                     </div>
-
-                    <div
-                        class="col-md-6 col-lg-6 col-sm-12 d-flex justify-content-lg-end justify-content-md-end justify-content-sm-center align-items-center p-3">
-                        <select name="category" id="productcategory" class="form-select form-control p-2 "
-                            style="max-width: 300px;" onchange="categoryselect()">
-                        </select>
-                    </div>
+                    <!-- filter -->
                 </div>
-                <div class="container-fluid">
-                    <div class="row d-flex justify-content-center align-items-center gap-5 galleydata">
+                <div class="col-md-9 col-sm-12 col-lg-9">
+                    <div class="container-fluid">
+                        <div
+                            class="container-fluid d-flex justify-content-center flex-column align-items-center gap-5 border border-1 border-black p-3">
+                            <div class="row w-100 border-bottom ">
+
+
+                                <div
+                                    class="col-md-6 col-lg-6 col-sm-12 d-flex justify-content-start align-items-center p-3">
+                                    <button class="border-0 btn threecol"><i
+                                            class="bi bi-grid-3x2 bg-white"></i></button>
+                                    <button class="border-0 btn fivecol"><i class="bi bi-grid bg-white"></i></button>
+                                    <button class="border-0 btn twelvecol"><i
+                                            class="bi bi-layout-split bg-white"></i></button>
+
+                                </div>
+
+                                <div
+                                    class="col-md-6 col-lg-6 col-sm-12 d-flex justify-content-lg-end justify-content-md-end justify-content-sm-center align-items-center p-3">
+                                    <p class="p-2 m-auto me-3 text-dark-emphasis">SORT</p>
+                                    <select name="category" id="productcategory" class="form-select form-control p-2 "
+                                        style="max-width: 300px;">
+                                        <option value="Featured items">Featured items</option>
+                                        <option value="Newest Items">Newest Items</option>
+                                        <option value="Best Selling">Best Selling</option>
+                                        <option value="A to Z">A to Z</option>
+                                        <option value="Z to A">Z to A</option>
+                                        <option value="By Review">By Review</option>
+                                        <option value="Price: Ascending">Price: Ascending</option>
+                                        <option value="Price: Descending">Price: Descending</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="container-fluid">
+                                <div class="row d-flex justify-content-center align-items-center gap-5 galleydata">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </main>
     <footer>
     </footer>

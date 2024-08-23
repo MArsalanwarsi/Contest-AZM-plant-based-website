@@ -1,63 +1,20 @@
-let fetchurl = "/Json/fetch.json";
+let fetchurl = "/Json/category.json";
 fetch(fetchurl)
   .then((res) => res.json())
   .then((data) => {
     let keys = Object.keys(data);
-    var catego = ` <option selected value="All Products">All Products</option>`;
+    var catego = ``;
+    let counting = 1;
     for (i in keys) {
-      catego += `<option value="${keys[i]}">${keys[i]}</option>`;
+      catego += `<div class="custom-control custom-checkbox">
+                                                <input type="checkbox" class="custom-control-input" id="Check${counting}">
+                                                <label class="custom-control-label" for="Check${counting}">${keys[i]}</label>
+                                            </div>`;
+      counting++;
     }
-    document.getElementById("productcategory").innerHTML = catego;
+    document.querySelector(".filter_cat").innerHTML = catego;
   });
-function categoryselect() {
-  let category = document.getElementById("productcategory").value;
-  if (category == "All Products") {
-    fetch(fetchurl)
-      .then((res) => res.json())
-      .then((data) => {
-        var gallery = "";
-        for (i in data) {
-          for (y in data[i]) {
-            gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y].id}&img=${data[i][y].img}&heading=${data[i][y].heading}&price=${data[i][y].price}&description=${data[i][y].mdes}"><div class="card h-100 shadow" style="max-width:400px">
-                            <img src="${data[i][y].img}" class="card-img-top" alt="...">
-                          </div>
-                        </a>
-                </div>`;
-          }
-        }
-        document.querySelector(".galleydata").innerHTML = gallery;
-      });
-  } else {
-    fetch(fetchurl)
-      .then((res) => res.json())
-      .then((data) => {
-        var gallery = "";
-        let keys = Object.keys(data);
-        for (i in keys) {
-          if (keys[i] == category) {
-            for (y in data[keys[i]]) {
-              gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-              <a href="/Description_page/index.html?id=${
-                data[keys[i]][y].id
-              }&img=${data[keys[i]][y].img}&heading=${
-                data[keys[i]][y].heading
-              }&price=${data[keys[i]][y].price}&description=${
-                data[keys[i]][y].mdes
-              }"><div class="card h-100 shadow" style="max-width:400px">
-                          <img src="${
-                            data[keys[i]][y].img
-                          }" class="card-img-top" alt="...">
-                        </div>
-                      </a>
-              </div>`;
-            }
-          }
-        }
-        document.querySelector(".galleydata").innerHTML = gallery;
-      });
-  }
-}
+
 
 fetch(fetchurl)
   .then((res) => res.json())
