@@ -274,7 +274,7 @@ let footer = `
         </div>
 
     </div>
-    <div class="bg_img position-absolute "></div>
+    <div class="bg_img position-absolute top-0 bottom-0 start-0 end-0"></div>
 </div>
 `;
 let category_database = () => {

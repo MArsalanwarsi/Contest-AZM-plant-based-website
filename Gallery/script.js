@@ -22,12 +22,16 @@ fetch(fetchurl)
     var gallery = "";
     for (i in data) {
       for (y in data[i]) {
-        gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y].id}&img=${data[i][y].img}&heading=${data[i][y].heading}&price=${data[i][y].price}&description=${data[i][y].mdes}"><div class="card h-100 shadow" style="max-width:400px">
-                            <img src="${data[i][y].img}" class="card-img-top" alt="...">
+        for (x in data[i][y]) {
+          for (w in data[i][y][x]) {
+            gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].heading}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].mdes}"><div class="card h-100 shadow" style="max-width:400px">
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top" alt="${data[i][y][x][w].img}">
                           </div>
                         </a>
                 </div>`;
+         }
+       }
       }
     }
     document.querySelector(".galleydata").innerHTML = gallery;

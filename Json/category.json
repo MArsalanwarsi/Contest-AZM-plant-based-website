@@ -5,23 +5,360 @@
         {
           "id": 1,
           "name": "Aloe Vera",
-          "price": 100,
-          "m_descrip": "",
-          "s_description": "",
-          "img": "./image/aloe-vera.jpg"
+          "price": 800,
+          "s_descriptiontion": "Aloe vera grows as a cluster",
+          "m_descrip": "Aloe vera grows as a cluster of long, slender leaves on a short stem. Over time, it produces more clusters of leaves called offsets that can form a colony large enough to fill the whole container. And while aloe vera might be most well-known for its healing sap used for centuries to treat wounds and sunburn, it does have sharp teeth along its leaf edges that can cut an unsuspecting passerby, so handle it with care.",
+          "img": "succlents1.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Jade plant",
+          "price": 1000,
+          "s_descriptiontion": " jade plant, lucky plant or money plant",
+          "m_descrip": "Crassula ovata, commonly known as jade plant, lucky plant, money plant or money tree, is a succulent plant with small pink or white flowers that is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique; it is common as a houseplant worldwide.",
+          "img": "succlents2.jpg"
+        },
+        {
+          "id": 3,
+          "name": "string of Pearls",
+          "price": 700,
+          "s_descriptiontion": "String-of-beads shared with Curio herreanus",
+          "m_descrip": "Curio rowleyanus, syn. Senecio rowleyanus, is a flowering plant in the daisy family Asteraceae. It is a creeping, perennial, succulent vine native to the Cape Provinces of South Africa.[1] In its natural environment its stems trail on the ground, rooting where they touch and form dense mats. It often avoids direct sunlight by growing in the shade of other plants and rocks. It is commonly known as string-of-pearls or string-of-beads.",
+          "img": "succlents3.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Buro's tail",
+          "price": 1200,
+          "s_descriptiontion": "the donkey tail or burro's tail ",
+          "m_descrip": "Sedum morganianum, the donkey tail or burro's tail, is a species of flowering plant in the family Crassulaceae, native to southern Mexico. It is a succulent perennial producing trailing stems up to 60 cm (24 in) long, with fleshy blue-green leaves and terminal pink to red flowers in summer.[1] S. morganianum has been found wild in two ravines at Tenampa county, in central Veracruz, in eastern Mexico and on vertical cliffs of igneous rock in the Tropical Deciduous Forest zone. Due to its restricted geographic distribution, it should be regarded as a micro-endemic species.",
+          "img": "succlents4.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Panda Plant",
+          "price": 400,
+          "m_descrip": "The Panda plant, scientifically named Kalanchoe tomentosa, has a distinctive look with fuzzy, red- or brown-rimmed leaves. It’s also nicknamed the pussy ears plant because its triangular leaves look like a cat’s ears. Panda plants are quite small, with a maximum height of 1.5 feet, and are native to Madagascar, where they flower when grown outdoors.",
+          "s_descriptiontion": "scientifically named Kalanchoe tomentosa",
+          "img": "succlents5.webp"
+        },
+        {
+          "id": 6,
+          "name": "Florist Kalanchoe",
+          "price": 1500,
+          "m_descrip": "Kalanchoe blossfeldiana is a glabrous,[11] bushy, evergreen and perennial succulent plant which (in 2–5 years)[13] can reach an ultimate height of between 30 and 45 cm (12 and 18 in)[2] and an ultimate spread of between 10 and 50 cm (4 and 19.5 in).[13] K. blossfeldiana has a round habit and a moderate plant density; its growth rate has been described as 'slow'.[14] The plant has green,[13] shiny and textured glossy foliage[2] which stays green all year round.[13] The scallop-edged and ovate leaves are arranged in an opposite/subopposite fashion, are simple in type with crenate margins and an oblong shape.[14] The arrangement of the veins in a leaf (venation) can be absent or very hard to see; the leaf blades are 5–10 cm (2–4 in) long.",
+          "s_descriptiontion": "cultivated evergreen house plant ",
+          "img": "succlents6.jpg"
         }
       ],
-      "Cacti": [],
-      "Air plants": [],
-      "Ferns": [],
-      "Spider plants": []
+      "Cacti": [
+        {
+          "id": 7,
+          "name": "Angel Wings Cactus",
+          "price": 1800,
+          "m_descrip": "The Opunta albispina cactus, also known as an angel wing cactus or bunny ears cactus, is a member of the prickly pear family that grows evenly spaced clusters of hairs rather than sharp spines. The Mexican native grows clusters of pads that get no larger than 2 feet tall but can grow up to five feet across over time, making this one of the more popular small indoor cactus types. Proper pruning can help keep this plant small. Pale yellow blooms are followed by red, edible fruits on plants that receive a full day of sun.  ",
+          "s_descriptiontion": "known as an angel wing",
+          "img": "cacti1.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Schlumbergera",
+          "price": 1400,
+          "m_descrip": "Schlumbergera is a small genus of cacti with six to nine species found in the coastal mountains of south-eastern Brazil. These plants grow on trees or rocks in habitats that are generally shady with high humidity, and can be quite different in appearance from their desert-dwelling cousins. Most species of Schlumbergera have stems which resemble leaf-like pads joined one to the other and flowers which appear from areoles at the joints and tips of the stems. Two species have cylindrical stems more similar to other cacti.",
+          "s_descriptiontion": "small genus of cacti",
+          "img": "cacti2.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Gymnocalycium",
+          "price": 2000,
+          "m_descrip": "The species of the genus Gymnocalycium are low-growing, usually solitary or sometimes small cushion-forming plants with globose, depressed-globular to short-cylindrical stems. The 4 to 15 (rarely more) ribs are usually broadly rounded, often sinuous, occasionally warty, and often have a chin just below the areoles. The thorns are very variable. The diurnal, funnel- or bell-shaped flowers appear at or near the apex. They are white or pink, sometimes yellow or bright red. The flower cup and the corolla are covered with a few large, broad and obtuse scales that have membranous edges. The areoles are bare. The perianth is usually spread. The stamens form two circles. The first surrounds the nectar chamber, the second is attached near the opening of the corolla. The oblong to spherical fruits are dry or fleshy and spring up in various ways. A permanent flower residue adheres to them. The seeds are very variable. Their color ranges from brown to black, the size from quite small to relatively very large.",
+          "s_descriptiontion": " commonly called chin cactus",
+          "img": "cacti3.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Euphorbia trigona",
+          "price": 1800,
+          "m_descrip": "Euphorbia trigona, the African milk tree,[1] cathedral cactus,[1] or Abyssinian euphorbia,[2] is a species of flowering plant that originates from Central Africa. Somewhat common in cultivation as a houseplant or as a hedge, the species is one of the euphorbias with succulent stems and branches as an adaptation to arid climates.",
+          "s_descriptiontion": "Euphorbia trigona, the African milk tree",
+          "img": "cacti4.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Prickly Pear Cactus",
+          "price": 2100,
+          "m_descrip": "The same paddle-shaped cacti that bear brightly colored, edible fruits when grown outdoors can also thrive as houseplants in the right conditions. Put them in a brightly lit window with a southern or western exposure so they can soak up as much direct sunlight as possible—without enough light, the pads will grow long and skinny rather than wide and full.",
+          "s_descriptiontion": "The same paddle-shaped cacti",
+          "img": "cacti5.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Aporocactus flagelliformis",
+          "price": 1800,
+          "m_descrip": "Stems ascending, later prostrate or pendent, profusely branching at base, 1–2 m long or more, 8–24 mm thick; ribs 7-14, obtuse; margins ± tuberculate; areoles minute, whitish; internodes 4–8 mm; spines 8-20, 3-8 (-10) mm long, bristle-like, yellowish to brownish; epidermis green, later grayish. Flowers zygomorphic, 7–10 cm long, 2-4 (-7,5) cm wide, limb bilaterally symmetric, oblique, diurnal, open for 3–5 days, scentless; pericarpel greenish with acute bracteoles; receptacle 3 cm, long, curved just above pericarpel, bracteoles, brownish, acute; outer tepals linear-lanceolate, ± reflexed, 2–3 cm long, 6 mm wide, crimson; inner tepals narrowly oblong, to 10 mm wide, crimson, sometimes passing to pink along the margins; stamens white to pale pink, erect, exserted; style stigma lobes 5-7, white Fruit globose, 10–12 mm long, red, bristly, pulp yellowish; seeds ovoid, brownish red.",
+          "s_descriptiontion": "flowering plant in the cactus family Cactaceae",
+          "img": "cacti6.jpg"
+        }
+      ],
+      "Air plants": [
+        {
+          "id": 13,
+          "name": "Nephrolepis exaltata",
+          "price": 1700,
+          "m_descrip": "Boston fern is a terrestrial or epiphytic, herbaceous perennial fern in the polypody family (Polypodiaceae). It is native to tropical and subtropical America and commonly grown as a houseplant in North Carolina and other USDA zones cooler than 10a. The species epithet is Latin for  very tall. Plant in bright, indirect light and warmth (60 to 70 degrees Fahrenheit). This fern needs high humidity and moist soil that should never be allowed to dry out. Place near kitchens and bathrooms for higher humidity or set on a tray of wet pebbles. In the winter, reduce watering as the plant is dormant and overwatering can lead to root rot. This plant removes indoor air pollutants well and is resistant to deer and heavy shade in the landscape. It grows to 2 to 3 feet in height and width. Boston fern produces spores on the underside of the leaves. These are dark brown to black dots that appear in a pattern. Do not mistake these for insects or disease damage.  ",
+          "s_descriptiontion": "Both indoors and outdoors Boston fern",
+          "img": "air1.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Golden Pothos",
+          "price": 1500,
+          "m_descrip": " Solomon Islands Light: Pothos prefers bright but indirect light although they can also adapt to partial shade. Variegated plants sometimes lose their leaf pattern and revert to all-green plants if they don’t get enough light; moving them to brighter conditions usually restores the variegation. Suddenly paler-looking leaves mean the plant is getting too much sun. If you notice it is getting leggy, it may need more light. Water: Pothos like to have their soil dry out completely between waterings. If left continually in damp soil, the roots will rot. Black spots on the leaves and the sudden collapse of the plant indicate the soil has been kept too wet. Let the plant tell you when to water — when it starts to droop, it needs a good drink. However, don’t wait until the leaves start to shrivel or you will lose some leaves. Dry, brown edges mean the plant was kept dry too long. Soil: Pothos plants thrive in ordinary, well-draining potting soil. Temperature: Pothos should be kept at room temperature of 18 to 24°C. Fertilizer: Pothos aren’t heavy feeders, but since there are no nutrients in most potting soils, feed monthly to bi-monthly with any balanced houseplant fertilizer during growing season. Humidity: This plant likes high humidity but it is very tolerant and can thrive even where there is low humidity. For best results, mist once a week in the summer and once every two weeks in the winter. Pruning: Keep the stems trimmed relatively short to keep foliage full along the full stems. If stems grow bare, they can be cut back to the soil level, and new stems will sprout. Re-Potting: Eventually, your Pothos will become pot bound. When the leaves droop, no matter how much or often you water them, the roots have probably filled the pot. Carefully lift the plant and check to see if this is the problem. When the plant has reached this stage, you can re-pot in a container one or two sizes larger, filled with fresh potting soil. Propagation: This plant is easily propagated simply by taking stem cuttings and rooting them in water or in potting soil. Move cuttings rooted in water into the soil as soon as possible so they can begin getting nutrients. Diseases and Pests: Diseases and pest problems in Epipremnum are not common, although they do exist. One of the biggest culprits of both is overwatering so watering plants only when they need it will help prevent problems. Toxicity: These plants are poisonous. Keep them away from children and pets and take care when handling.",
+          "s_descriptiontion": "Solomon Islands Light  Pothos",
+          "img": "air2.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Ficus elastica",
+          "price": 1000,
+          "m_descrip": "Ficus elastica, the rubber fig, rubber bush, rubber tree, rubber plant, or Indian rubber bush, Indian rubber tree, is a species of flowering plant in the family Moraceae, native to eastern parts of South and Southeast Asia. It has become naturalized in Sri Lanka, the West Indies, and the US state of Florida.[2][3] Despite its common names, it is not used in the commercial production of natural rubber.",
+          "s_descriptiontion": "the rubber fig, rubber bush",
+          "img": "air3.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Areca Palm",
+          "price": 4000,
+          "m_descrip": "Every few years you’ll need to repot your Areca Palm. The roots prefer a tight container but when they’re too crowded, it will limit the size of the plant. By repotting the plant, you’re going to be replacing the older potting soil that it’s been living in for the past two to three years, and you’ll be giving it newer nutrients that have been leeched out of the soil that it’s been living in. When repotting your plant, be sure that you’re potting it in the same depth as the previous pot. If you plant it too deeply it can cause serious injury to the roots and the rest of the plant. Roots can be very brittle so make sure that you’re very gentle and don’t even try to separate or spread them out. Gently pack the soil around the roots with your fingers and make sure that you’re not over pressing the soil so that you won’t break the fragile roots. After you’ve pressed the soil in, water it deeply and gently press the soil down again to remove any air pockets. Add more soil if required after pressing this soil down.",
+          "s_descriptiontion": ": Loves light and can even tolerate",
+          "img": "air4.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Philodendron",
+          "price": 3000,
+          "m_descrip": "Philodendron is a large genus of flowering plants in the family Araceae. As of June 2024, the Plants of the World Online accepted 621 species;[2] other sources accept different numbers.[3][4] Regardless of number of species, the genus is the second-largest member of the family Araceae, after genus Anthurium. Taxonomically, the genus Philodendron is still poorly known, with many undescribed species. Many are grown as ornamental and indoor plants. The name derives from the Greek words philo- 'love, affection' and dendron 'tree'. The generic name, Philodendron, is often used as the English name.",
+          "s_descriptiontion": "large genus of flowering plants ",
+          "img": "air5.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Chrysanthemum",
+          "price": 1900,
+          "m_descrip": "The genus Chrysanthemum are perennial herbaceous flowering plants, sometimes subshrubs. The leaves are alternate, divided into leaflets and may be pinnatisect, lobed, or serrate (toothed) but rarely entire; they are connected to stalks with hairy bases.[7] The compound inflorescence is an array of several flower heads, or sometimes a solitary head. The head has a base covered in layers of phyllaries. The simple row of ray florets is white, yellow, or red. The disc florets are yellow. Pollen grains are approximately 34 microns.[citation needed] The fruit is a ribbed achene.",
+          "s_descriptiontion": "They are native to East Asia",
+          "img": "air6.jpg"
+        }
+      ],
+      "Ferns": [
+        {
+          "id": 19,
+          "name": "Phlebodium aureum Fern",
+          "price": 3000,
+          "m_descrip": "It is a rhizomatous fern, with the creeping rhizome 8–15 mm (rarely 30 mm) in diameter, densely covered in the golden-brown scales that give the species its name. The fronds are large and pinnatifid (deeply lobed), from 30 to 130 cm long and 10–50 cm broad, with up to 35 pinnae; they vary in color from bright green to glaucous green and have undulate margins. Several round sori run along each side of the pinna midrib, and the minute spores are wind-dispersed. The fronds are evergreen in areas with year-round rainfall, semi-evergreen or briefly deciduous in areas with a marked dry season.",
+          "s_descriptiontion": "the creeping rhizome",
+          "img": "fern1.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Bird's Nest Fern",
+          "price": 800,
+          "m_descrip": "Leathery fronds with wavy edges radiate from the center of the plant to create a striking vase shape that vaguely resembles a nest. Because these indoor ferns love high humidity, they're great plants to grow in your bathroom, if you have a window providing plenty of indirect light.",
+          "s_descriptiontion": "Leathery fronds with wavy edges",
+          "img": "fern2.jpg"
+        },
+        {
+          "id": 21,
+          "name": "Nephrolepis exaltata Fern",
+          "price": 1700,
+          "m_descrip": "Boston fern is a terrestrial or epiphytic, herbaceous perennial fern in the polypody family (Polypodiaceae). It is native to tropical and subtropical America and commonly grown as a houseplant in North Carolina and other USDA zones cooler than 10a. The species epithet is Latin for  very tall. Plant in bright, indirect light and warmth (60 to 70 degrees Fahrenheit). This fern needs high humidity and moist soil that should never be allowed to dry out. Place near kitchens and bathrooms for higher humidity or set on a tray of wet pebbles. In the winter, reduce watering as the plant is dormant and overwatering can lead to root rot. This plant removes indoor air pollutants well and is resistant to deer and heavy shade in the landscape. It grows to 2 to 3 feet in height and width. Boston fern produces spores on the underside of the leaves. These are dark brown to black dots that appear in a pattern. Do not mistake these for insects or disease damage.  ",
+          "s_descriptiontion": "Both indoors and outdoors Boston fern",
+          "img": "fern3.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Phlebodium Aureum Fern",
+          "price": 1600,
+          "m_descrip": "Simply Houseplant has been designed from the ground up as a high-quality, all-purpose repotting mix designed to give excellent results with a wide range of indoor houseplants. Produced with a uniquely formulated base of Coco Coir, Growfibre, Bark and Perlite, Simply Houseplant also comes amended with a specially formulated nutritional profile designed to give your houseplants a nutritional boost from the start. The nutritional profile of Simply Houseplant has been designed with tropical houseplants in mind, to make available all the key nutrients needed for the strong growth of indoor foliage plants, at the right proportions, for the first 6-8 weeks once repotted. ",
+          "s_descriptiontion": "Phlebodium Aureum Blue Star Fern",
+          "img": "fern4.jpg"
+        },
+        {
+          "id": 23,
+          "name": "Button Fern",
+          "price": 1850,
+          "m_descrip": "With its compact size and fronds studded with soft, round leaves, this fern is great for smaller spaces. Like many other ferns on this list, the button fern is a great bathroom plant due to its love of humidity—just place it near a window out of the direct sunlight (east-facing or north-facing is ideal) and the steam from your shower will keep it healthy.",
+          "s_descriptiontion": "compact size and fronds studded with soft",
+          "img": "fern5.jpg"
+        },
+        {
+          "id": 24,
+          "name": "Maidenhair Fern ",
+          "price": 2800,
+          "s_description": "also known as the Northern Maidenhair Fern",
+          "m_descrip": "The Maidenhair Fern (Adiantum pedatum), also known as the Northern Maidenhair Fern, is a captivating plant native to North America. With its delicate leaves, black stems, and spore-bearing structures, it adds a touch of elegance and beauty to any garden or indoor space. In this guide, we will explore how to successfully grow and care for the Maidenhair Fern, including its preferred growing conditions, maintenance requirements, and tips to ensure its health and vitality.",
+          "img": "fern6.jpg"
+        }
+      ]
     }
   ],
   "Outdoor Plants": [
     {
-      "Flowering plants": [],
-      "Shrubs": [],
-      "Trees": [],
+      "Flowering plants": [
+        {
+          "id": 25,
+          "name": "Lavandula",
+          "price": 800,
+          "m_descrip": "Lavandula (common name lavender) is a genus of 47 known species of perennial flowering plants in the mints family, Lamiaceae.[1] It is native to the Old World, primarily found across the drier, warmer regions of mainland Eurasia, with an affinity for maritime breezes.[2] Lavender is found on the Iberian Peninsula and around the entirety of the Mediterranean coastline (including the Adriatic coast, the Balkans, the Levant, and coastal North Africa), in parts of Eastern and Southern Africa and the Middle East, as well as in South Asia and on the Indian subcontinent.[3] Many members of the genus are cultivated extensively in temperate climates as ornamental plants for garden and landscape use, for use as culinary herbs, and also commercially for the extraction of essential oils.[4] Lavender is used in traditional medicine and as an ingredient in cosmetics.",
+          "s_description": "known species of perennial flowering",
+          "img": "flower1.jpg"
+        },
+        {
+          "id": 26,
+          "name": "Rhododendron",
+          "price": 3000,
+          "m_descrip": "Rhododendron (/ˌroʊdəˈdɛndrən/; pl.: rhododendra) is a very large genus of about 1,024 species of woody plants in the heath family (Ericaceae). They can be either evergreen or deciduous. Most species are native to eastern Asia and the Himalayan region, but smaller numbers occur elsewhere in Asia, and in North America, Europe and Australia.[5] It is the national flower of Nepal, the state flower of Washington and West Virginia in the United States, the state flower of Nagaland and Himachal Pradesh in India, the provincial flower of Jiangxi in China and the state tree of Sikkim and Uttarakhand in India. Most species have brightly colored flowers which bloom from late winter through to early summer.[6] Azaleas make up two subgenera of Rhododendron. They are distinguished from true rhododendrons by having only five anthers per flower.",
+          "s_description": "species of woody plants in the heath family",
+          "img": "flower2.jpg"
+        },
+        {
+          "id": 27,
+          "name": "Euphorbia",
+          "price": 2600,
+          "m_descrip": "Euphorbias range from tiny annual plants to large and long-lived trees.[2] with perhaps the tallest being Euphorbia ampliphylla at 30 m (98 ft) or more.[3][4] The genus has roughly 2,000 members,[5][6] making it one of the largest genera of flowering plants.[7][8] It also has one of the largest ranges of chromosome counts, along with Rumex and Senecio.[7] Euphorbia antiquorum is the type species for the genus Euphorbia.[9] It was first described by Carl Linnaeus in 1753 in Species Plantarum.",
+          "s_description": "large and diverse genus of flowering plants",
+          "img": "flower3.jpg"
+        },
+        {
+          "id": 28,
+          "name": "Angelonia",
+          "price": 3400,
+          "m_descrip": "Angelonia is a genus of about 30 species which occur from Mexico to Argentina and is classified in the Plantaginaceae. They are herbaceous plants occurring mainly in arid and semi-arid habitats. Most Angelonia species can be found in Northeastern Brazil in the seasonally-dry tropical forest namely Caatinga.[2] The flowers of Angelonia are highly specialized for pollination because they have hairs in the inner corolla, which produces oils collected by oil bee pollinators, especially of the genus Centris.[3]",
+          "s_description": " genus of about 30 species ",
+          "img": "flower4.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Dahlia",
+          "price": 3900,
+          "m_descrip": "Dahlia (UK: /ˈdeɪliə/ DAY-lee-ə, US: /ˈdæljə, ˈdɑːljə, ˈdeɪljə/ DA(H)L-yə, DAYL-yə)[3] is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America. As a member of the Asteraceae (synonym name: Compositae) family of dicotyledonous plants,[4] its relatives include the sunflower, daisy, chrysanthemum, and zinnia. There are 49 species of dahlia,[4] with flowers in almost every hue (except blue), with hybrids commonly grown as garden plants. Dahlias were known only to the Aztecs and other southern North American peoples until the Spanish conquest, after which the plants were brought to Europe. The (high in sugar) tubers of some varieties are of value to humans. There is also a special polysaccharide of Fructan obtained known as Inulin.",
+          "s_description": " genus of bushy, tuberous",
+          "img": "flower5.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Cosmos",
+          "price": 2000,
+          "m_descrip": "Cosmos are herbaceous perennial plants or annual plants growing 0.3–2 m (1 ft 0 in – 6 ft 7 in) tall. The leaves are simple, pinnate, or bipinnate, and arranged in opposite pairs. The flowers are produced in a capitulum with a ring of broad ray florets and a center of disc florets; flower color varies noticeably between the different species. The genus includes several ornamental plants popular in gardens. Numerous hybrids and cultivars have been selected and named.",
+          "s_description": " flowering plants in the sunflower family.[3][4]",
+          "img": "flower6.jpg"
+        }
+      ],
+      "Shrubs": [
+        {
+          "id": 31,
+          "name": "Hydrangea",
+          "price": 1500,
+          "m_descrip": "Hydrangea (/haɪˈdreɪndʒiə/),[3] commonly named the hortensia, is a genus of more than 70 species of flowering plants native to Asia and the Americas. By far the greatest species diversity is in eastern Asia, notably China, Korea, and Japan. Most are shrubs 1–3 m (3 ft 3 in – 9 ft 10 in) tall, but some are small trees, and others lianas reaching up to 30 m (100 ft) by climbing up trees. They can be either deciduous or evergreen, though the widely cultivated temperate species are all deciduous.[4]",
+          "s_description": "commonly named the hortensia",
+          "img": "shrub1.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Viburnum",
+          "price": 2800,
+          "m_descrip": "The leaves are opposite, simple, and entire, toothed or lobed; cool temperate species are deciduous, while most of the warm temperate species are evergreen. Some species are densely hairy on the shoots and leaves, with star-shaped hairs. The flowers are produced in corymbs 5–15 cm across, each flower white to cream or pink, small, 3–5 mm across, with five petals, strongly fragrant in some species. The gynoecium has three connate carpels with the nectary on top of the gynoecium. Some species also have a fringe of large, showy sterile flowers around the perimeter of the corymb to act as a pollinator target.",
+          "s_description": " flowering plants in the moschatel family",
+          "img": "shrub2.jpg"
+        },
+
+        {
+          "id": 33,
+          "name": "Garden Shrubs",
+          "price": 4500,
+          "m_descrip": " backdrop for your garden",
+          "s_description": "Shrubs are the perfect backdrop for your garden, whether it’s a large plot or a tiny courtyard, and are a big draw for natural pollinators. In all sizes, shapes and colours, we have shrubs for every location and taste, from charming hydrangeas to butterfly hero buddleias and scented choisya. For perennial colour, visit our flowering bulbs page for a fabulous selection.",
+          "img": "shrub3.jpg"
+        },
+
+        {
+          "id": 34,
+          "name": "Choisya Plants",
+          "price": 1600,
+          "m_descrip": "The choisya plant is native to Mexico, where it is known as 'orange blossom', it’s an evergreen that produces swathes of beautiful citrusy smelling",
+          "s_description": "known as 'orange blossom",
+          "img": "shrub4.jpg"
+        },
+
+        {
+          "id": 35,
+          "name": "Forsythia",
+          "price": 800,
+          "m_descrip": "When forsythia blooms, it's a sure sign spring is starting. Look for newer varieties that are more compact and better behaved than old standards, which can become tall and unwieldy in small gardens. Plant as accents or in a mixed border.",
+          "s_description": "it's a handsome deciduous shrub.",
+          "img": "shrub5.jpg"
+        },
+
+        {
+          "id": 36,
+          "name": "Gardenia jasminoides",
+          "price": 3400,
+          "m_descrip": "Gardenia jasminoides, commonly known as gardenia and cape jasmine,[2] is an evergreen flowering plant in the coffee family Rubiaceae. It is native to parts of South-East Asia. Wild plants range from 30 centimetres to 3 metres (about 1 to 10 feet) in height. They have a rounded habit with very dense branches with opposite leaves that are lanceolate-oblong, leathery or gathered in groups on the same node and by a dark green, shiny and slightly waxy surface and prominent veins.",
+          "s_description": " commonly known as gardenia and cape jasmine",
+          "img": "shrub6.jpg"
+        }
+      ],
+      "Trees": [
+        {
+          "id": 37,
+          "name": "Araucaria Plants",
+          "price": 1600,
+          "m_descrip": "Araucaria ( /ærɔːˈkɛəriə/; original pronunciation: [a.ɾawˈka. ɾja])[2] is a genus of evergreen coniferous trees in the family Araucariaceae. While today they are largely confined to the Southern Hemisphere, during the Jurassic and Cretaceous they were globally distributed. There are 20 extant species in New Caledonia (where 14 species are endemic, see New Caledonian Araucaria), Norfolk Island, eastern Australia, New Guinea, Argentina, Brazil, Chile and Uruguay.",
+          "s_description": "known as 'orange blossom",
+          "img": "tree1.webp"
+        },
+        {
+          "id": 38,
+          "name": "ASPARAGUS MARRY",
+          "price": 1600,
+          "m_descrip": "Outdoors, rosemary can Tolerate High Temperature and a wide range of humidity. Most varieties are hardy only down to 30 degrees Fahrenheit. Where temperatures dip below 30 degrees, rosemary plants will have to spend the winter indoors. In this case, it’s easier to grow your rosemary in a container all year. Since rosemary likes it on the dry side, terra cotta pots are an especially good choice. Just be sure the plants don’t bake and completely dry out while outdoors during the summer.",
+          "s_description": "plants and landscaping services",
+          "img": "tree2.webp"
+        },
+        {
+          "id": 39,
+          "name": "BAMBOO PALM",
+          "price": 450,
+          "m_descrip": "Bamboo palm is a plant name applied to certain genera and species of palm trees. They are unrelated to true bamboos.",
+          "s_description": " species of palm trees",
+          "img": "tree3.webp"
+        },
+        {
+          "id": 40,
+          "name": "BANANA PALM",
+          "price": 1600,
+          "m_descrip": "The Banana Palm has a clustered, cylindrical collection of leaf stalk bases instead of the trunk. Each palm has around 7-15 oblong leaves with leaf veins running from the mid-rib straight to the outer edge of the leaf. In the windy conditions leaves tear along the veins creating a feather-like look.",
+          "s_description": "species of palm trees",
+          "img": "tree4.webp"
+        },
+        {
+          "id": 41,
+          "name": "BIRD OF PARADISE",
+          "price": 1500,
+          "m_descrip": "Most are distinguished by striking colors and bright plumage of yellow, blue, scarlet, and green. These colors distinguish them as some of the world's most dramatic and attractive birds. Males often sport vibrant feathered ruffs or amazingly elongated feathers, which are known as wires or streamers.",
+          "s_description": "known as 'orange blossom",
+          "img": "tree5.webp"
+        },
+        {
+          "id": 42,
+          "name": "ASPARAGUS MARRY",
+          "price": 1600,
+          "m_descrip": "Outdoors, rosemary can Tolerate High Temperature and a wide range of humidity. Most varieties are hardy only down to 30 degrees Fahrenheit. Where temperatures dip below 30 degrees, rosemary plants will have to spend the winter indoors. In this case, it’s easier to grow your rosemary in a container all year. Since rosemary likes it on the dry side, terra cotta pots are an especially good choice. Just be sure the plants don’t bake and completely dry out while outdoors during the summer.",
+          "s_description": "plants and landscaping services",
+          "img": "tree2.webp"
+        }
+      ],
       "Vines": [],
       "Ground covers": []
     }
@@ -29,18 +366,205 @@
   "Seeds and Bulbs": [
     {
       "Flower seeds": [
-         {
-           "id": 1,
-           "name": "Aloe Vera",
-           "price": 100,
-           "m_descrip": "",
-           "s_description": "",
-           "img": "./image/aloe-vera.jpg"
-         }
+        {
+          "id": 61,
+          "name": "Lavender Herbal Flower Natural Seeds",
+          "price": 1000,
+          "m_descrip": "These Lavender herbal flower seeds are of high-quality and reliable option for growing beautiful lavender flowring plants. With a professional-grade formula, these seeds offer a strong potential for success, resulting in lush and fragrant blooms. Perfect for both gardening experts and beginners, these seeds provide an easy and rewarding gardening experience.",
+          "s_description": "These Lavender herbal flower seeds...",
+          "img": "flower_seed1.jpg"
+        },
+        {
+          "id": 62,
+          "name": "Single Portulaca Flower Mixed Seeds",
+          "price": 1200,
+          "m_descrip": "Grow vibrant and eye-catching Portulaca flowers with these high-quality seeds. Perfect for flowerbeds and rockeries, this compact and easy-to-grow herbaceous annual boasts large, decorative flowers. Add a touch of color and beauty to your garden with Portulaca Flower Mixed Seeds. Boost the aesthetic appeal and diversity of your garden with Single Portulaca Flower Mixed Seeds, renowned for its ability to produce vibrant and eye-catching flowers. Perfect for flowerbeds and rockeries, this compact and easy-to-grow herbaceous annual boasts large, decorative flowers that add a touch of color and beauty to any outdoor space.",
+          "s_description": "Grow vibrant and eye-catching...",
+          "img": "flower_seed2.jpg"
+        },
+        {
+          "id": 63,
+          "name": "Japenese Rock Garden Mix Flower Seeds",
+          "price": 1100,
+          "m_descrip": "This Japanese-inspired wildflower seed mix grows to about 20 inches in height. It contains a variety of flowers commonly seen in Japanese gardens, offering a lovely display throughout the spring and summer. With high germination rates and fast establishment, this wildflower mix is simple to grow. Create a diverse blend of decorative flowers with this unique seed combination. Perfect for rockeries and garden corners, this mix will add vibrant color to your garden. Low maintenance and drought-resistant, this seed mix requires only 3 - 5 grams per square meter. Please note, cutting is not recommended.",
+          "s_description": "This Japanese-inspired wildflower...",
+          "img": "flower_seed3.jpg"
+        },
+        {
+          "id": 64,
+          "name": "Chrysanthemum Alaska White Seeds",
+          "price": 1300,
+          "m_descrip": "Grow your garden's beauty with Chrysanthemum Alaska White Seeds. These herbaceous vivacious plants, with divided leaves and gorgeous capitulum flowers, will surely make a statement in your flowerbeds and as cut flowers. Perfect for adding a touch of elegance to any outdoor space. Create a stunning outdoor space bursting with elegance with Chrysanthemum Alaska White Seeds. These vivacious plants boast uniquely shaped leaves and an array of stunning capitulum flowers, making them ideal for adding a touch of class to any garden.",
+          "s_description": "Grow your garden's beauty...",
+          "img": "flower_seed4.jpg"
+        },
+        {
+          "id": 65,
+          "name": " Chrysanthemum Tricolour Mix Seeds",
+          "price": 1500,
+          "m_descrip": "This annual, herbaceous plant from the Asteraceae family boasts a stunning array of multicolored flowers. Perfect for adding a pop of color to garden beds or as cut flowers. Cultivate a beautiful garden with these Chrysanthemum Tricolour Mix Seeds. According to gardening experts, the Chrysanthemum Tricolour Mix Seeds will provide you with a vibrant and diverse display of flowers in your garden. With its wide variety of colors, this annual plant from the Asteraceae family is sure to add a touch of vibrant beauty to any garden bed or floral arrangement. Whether used for decorative purposes or as cut flowers, these seeds are a must-have for any garden enthusiast looking to cultivate a stunning and colorful outdoor space.",
+          "s_description": "This annual, herbaceous plant...",
+          "img": "flower_seed5.jpg"
+        },
+        {
+          "id": 66,
+          "name": " Portulaca Double Flower Mixed Seeds",
+          "price": 400,
+          "m_descrip": "Upgrade your garden with Portulaca Double Flower Mixed Seeds. This annual herbaceous plant features compact, grey-green foliage and large, decorative flowers. A perfect addition to flowerbeds and rockeries, this low-maintenance plant will enhance the beauty of your outdoor space. Also known as 'moss roses', Portulaca Double Flower Mixed Seeds are perfect those looking to add a pop of color and texture to their garden. With vibrant, eye-catching flowers and easy upkeep, these seeds make for an effortless yet stunning garden upgrade. In addition, Portulaca Double Flower Mixed Seeds thrive in flowerbeds and rockeries, making them a versatile and attractive option for any outdoor space.",
+          "s_description": "Upgrade your garden with...",
+          "img": "flower_seed6.jpg"
+        }
       ],
-      "Vegetable seeds": [],
-      "Herb seeds": [],
-      "Bulbs for seasonal flowers": []
+      "Vegetable seeds": [
+        {
+          "id": 67,
+          "name": "Heirloom Exotic Colored Capsicum ( Red ) Seeds",
+          "price": 300,
+          "m_descrip": "These Heirloom Exotic Colored Capsicum (Red) Seeds are perfect for adding a touch of color to your garden. With a high germination rate of 85%, these seeds will yield a bountiful harvest of vibrant and flavorful peppers. Enjoy the benefits of growing your own fresh and colorful produce with these top-quality seeds.-The offered seeds are of Non-Hybrid, Open Pollinated, and Non-GMO varieties. -The plants are known for their strength and vigor. -The attractive fruits are blocky and have 3-4 lobes. -They exhibit a shining dark green color which transforms into red as they mature. -These fruits weigh around 110-130 gms. -This variety is perfect for distant transportation due to its firm skin and the plant produces heavy yields from top to bottom. -The maturity period for these seeds is approximately 70-75 days after transplanting",
+          "s_description": "These Heirloom Exotic Colored...",
+          "img": "vege1.jpg"
+        },
+        {
+          "id": 68,
+          "name": "Heirloom Green Chilies ( hari mirch ) Seeds",
+          "price": 220,
+          "m_descrip": "Grow your own flavorful green chilies (hari mirch) with our high-quality heirloom seeds. These seeds produce robust, disease-resistant plants that yield a bountiful harvest. Enjoy the delicious taste and numerous health benefits of fresh, home-grown chilies. Order now and add some spice to your garden and your dishes! This seed type is considered Non-Hybrid, Open Pollinated, and Non-GMO. The plant type is classified as Medium Tall with profuse branching. The fruit starts off as a dark green color and turns deep red when it reaches maturity. The bearing habit is upright and produces 10-12 fruits per bunch, ranging from 2.5 to 3.5 inches in length. These chilies have a highly pungent taste that is equally tempting.",
+          "s_description": "Grow your own flavorful...",
+          "img": "vege2.jpg"
+        },
+        {
+          "id": 69,
+          "name": "Heirloom Carrots Seeds - Red",
+          "price": 180,
+          "m_descrip": "Grow vibrant, flavorful carrots with our Heirloom Carrots Seeds. These high-quality seeds produce red-colored carrots with a rich, earthy taste. With over 90% germination rate, you'll enjoy a bountiful harvest of nutritious carrots that are perfect for snacking, salads, and cooking.  1- Seed Type: These heirloom carrots are non-hybrid, open pollinated, and non-GMO. 2- Sowing Time: For best results, sow these seeds from August to October. 3- Roots: These carrots are known for their exceptionally sleek, tender, and tapering shape. They grow to be 10-12 inches long, with a beautiful dark red color that is sure to catch the eye. 4- Specifications: These carrots boast a 100% red core and are naturally sweet. 5- Maturity: These carrots reach maturity in just 75-80 days after sowing.",
+          "s_description": "Grow vibrant, flavorful carrots...",
+          "img": "vege3.jpg"
+        },
+        {
+          "id": 70,
+          "name": "Red Onion Desi Vegetable Seeds",
+          "price": 250,
+          "m_descrip": "Grow your own delicious and nutrient-rich red onions with Red Onion Desi Vegetable Seeds. These high-quality seeds ensure a bountiful and healthy harvest, perfect for adding flavor to your dishes. With easy-to-follow instructions, you can enjoy the freshness and benefits of homegrown produce. Grow fresh, flavorful red onions with Red Onion Desi Vegetable Seeds. These high-quality seeds are perfect for home gardening and offer a reliable 85% germination rate. Enjoy the health benefits of adding homegrown onions to your meals.",
+          "s_description": "Grow your own delicious...",
+          "img": "vege4.jpg"
+        },
+        {
+          "id": 71,
+          "name": "Heirloom Green Capsicum ( Green Shimla Mirch ) Seeds",
+          "price": 150,
+          "m_descrip": "These Heirloom Green Capsicum Seeds produce high-quality, organic, and non-GMO peppers. With a crisp, fresh flavor and a high vitamin C content, these peppers are perfect for salads, stir-fries, and other dishes. Enjoy the benefits of growing your own produce and supporting sustainable agriculture with these seeds.-Non-Hybrid, Open Pollinated, and Non-GMO Seed Type for Strong and Vigorous Plant with Very Attractive, 3-4 Lobed Blocky Fruits in Shining Dark Green that Turn Red at Maturity, Weighing 110-130 Gms",
+          "s_description": "These Heirloom Green Capsicum...",
+          "img": "vege5.jpg"
+        },
+        {
+          "id": 72,
+          "name": " Heirloom Spinach ( Palak ) Seeds",
+          "price": 200,
+          "m_descrip": "Introducing our Heirloom Spinach (Palak) Seeds, perfect for growing nutritious and flavorful spinach in your own garden. These seeds are carefully selected for their quality and heritage, ensuring a bountiful harvest. Enjoy the benefits of fresh, homegrown spinach with our expertly-crafted heirloom seeds. Grow your own produce and taste the difference.",
+          "s_description": "Introducing our Heirloom Spinach (Palak)...",
+          "img": "vege6.jpg"
+        }
+      ],
+      "Herb seeds": [
+        {
+          "id": 55,
+          "name": "Heirloom Asparagus Organic Seeds - Mary Washington",
+          "price": 350,
+          "m_descrip": "Grow a delicious and healthy garden with Heirloom Asparagus Organic Seeds - Mary Washington. These organic seeds produce high yields of tender and flavorful asparagus, perfect for salads and side dishes. With a rich history and trusted by gardeners, these seeds are a must-have for any home garden. Apnaugao Asparagus DIY Seeds, important to add in your balanced diet. Nutrient-Rich: Asparagus is low in calories but rich in essential nutrients. It is a good source of vitamins A, C, E, and K, as well as folate, potassium, and fiber.",
+          "s_description": "These Heirloom Exotic Colored...",
+          "img": "herb1.jpg"
+        },
+        {
+          "id": 56,
+          "name": "Chives Seeds",
+          "price": 150,
+          "m_descrip": "Growing chives at home is easy and offers fresh, flavorful herbs for your dishes. They thrive in sunny to partially shaded areas with well-drained soil. Benefits include year-round availability, low maintenance, nutritional value, and natural pest-repelling properties, making them a versatile and rewarding addition to your garden.",
+          "s_description": "Growing chives at home...",
+          "img": "herb2.jpg"
+        },
+        {
+          "id": 57,
+          "name": "Italian Parsley Flat Broad Leaves Organic Seeds",
+          "price": 250,
+          "m_descrip": "These organic Italian parsley seeds produce broad flat leaves that are commonly used in Mediterranean cuisine. The flat leaves offer a milder flavor compared to curly parsley, making them perfect for garnishing dishes or adding a fresh touch to pasta sauces. With high quality organic seeds, you can enjoy the delicious taste and health benefits of fresh parsley right from your own garden. Elevate your garden with our Italian Parsley Flat Broad Leaves Organic Seeds. These heirloom and non-GMO seeds have a maturity time of 75 days after sowing.",
+          "s_description": "These organic Italian parsley...",
+          "img": "herb3.jpg"
+        },
+        {
+          "id": 58,
+          "name": "Red Onion Desi Vegetable Seeds",
+          "price": 450,
+          "m_descrip": "Grow your own flavorful herbs with our Sweet Marjoram 'Oregano' Seeds. These seeds produce robust plants that can be used as a substitute for oregano, providing a unique and delicious taste to your dishes. With our seeds, you can have fresh herbs at your fingertips, allowing you to enjoy all the health benefits and flavorful taste of this versatile herb.",
+          "s_description": "Grow your own flavorful herbs...",
+          "img": "herb4.jpg"
+        },
+        {
+          "id": 59,
+          "name": "Rosemary Herb Seeds",
+          "price": 300,
+          "m_descrip": "Grow fresh, aromatic Rosemary with our high-quality herb seeds. Enhance your culinary creations with the earthy and savory flavor of this versatile herb. Harvest straight from your garden for maximum freshness and taste. Easy to grow and perfect for adding a pop of flavor to any dish. Grow robust, fragrant rosemary with these easy-to-grow perennial seeds. Perfect for home gardens, with guaranteed germination at 15-18 °C.",
+          "s_description": "Grow fresh, aromatic Rosemary...",
+          "img": "herb5.jpg"
+        },
+        {
+          "id": 60,
+          "name": " Heirloom Spinach ( Palak ) Seeds",
+          "price": 200,
+          "m_descrip": "Annual Herb Plant. Cinnamon Basil contains methyl cinnamonononate, these compounds give it its particular perfumes. Grow your own cinnamon basil with these organic seeds. An herb garden staple, this perennial produces fragrant leaves with a distinct cinnamon flavor perfect for baking, tea, and sauces. Germination Temperature 15-25 °C.",
+          "s_description": "Annual Herb Plant. Cinnamon...",
+          "img": "herb6.jpg"
+        }
+      ],
+      "Bulbs for seasonal flowers": [
+        {
+          "id": 73,
+          "name": "Rain Lily Apricot King Bulb",
+          "price": 300,
+          "m_descrip": "Rain Lily Apricot King Bulbs are now available. Scientific name of Rain Lily is Zephyranthes while other common names include Zephyr Lily, Magic Lily as well. We offer high quality, imported Rain Lily bulbs that are already forced for immediate blooming. This means you will enjoy a colourful bloom within the 1st year.",
+          "s_description": "Rain Lily Apricot King...",
+          "img": "bulb1.jpg"
+        },
+        {
+          "id": 74,
+          "name": "Rain Lily Capricorn Bulb",
+          "price": 250,
+          "m_descrip": "Rain Lily Capricorn Bulbs are now available. Scientific name of Rain Lily is Zephyranthes while other common names include Zephyr Lily, Magic Lily as well. We offer high quality, imported Rain Lily bulbs that are already forced for immediate blooming. This means you will enjoy a colourful bloom within the 1st year.",
+          "s_description": "Rain Lily Capricorn Bulbs...",
+          "img": "bulb2.jpg"
+        },
+        {
+          "id": 75,
+          "name": "Allium azureum",
+          "price": 180,
+          "m_descrip": "As flower colours go, true blue can be hard to find, and with summer on its way, you’re in the mood for some icy-cool colours. Gardeners with foresight will have planted the bluest of the blue-flowering bulbs in time to get a flush of azure, and they’ll have chosen the blue Allium azureum (also known as Allium caeruleum) for a showy display of blue pompom-pop like clusters of florets.",
+          "s_description": "As flower colours go...",
+          "img": "bulb3.jpg"
+        },
+        {
+          "id": 76,
+          "name": "Tulip 'Queen of Night'",
+          "price": 250,
+          "m_descrip": "Near-black tulips are absolutely incredible, and 'Queen of Night' tulips are among the best of the black tulip varieties. It's as if spring has been building up to a climax culminating in the blooming of your single late tulip varieties. To highlight your black tulips, getting them the attention they so justly deserve, plan your Tulip 'Queen of Night' bulbs in generous clumps or combine them with pure white tulips for a classic black and white look.",
+          "s_description": "Near-black tulips are...",
+          "img": "bulb4.jpg"
+        },
+        {
+          "id": 77,
+          "name": "Allium collection 'Abbey Road",
+          "price": 150,
+          "m_descrip": "We are honoured to be the official supplier of one of the most famous and dedicated Allium cultivators in the Netherlands. Each year we visit the fields and select the most exclusive and rare Allium varieties available to offer these Allium bulbs to discerning gardeners like you. We can definitely say we are an Allium specialist. Our 'Abbey Road' collection consists of Allium multibulbosum 'Nigrum' combined with the deep red Allium atropurpureum.",
+          "s_description": "We are honoured to be...",
+          "img": "bulb5.jpg"
+        },
+        {
+          "id": 78,
+          "name": "Rain Lily Young Love Bulb",
+          "price": 200,
+          "m_descrip": "Rain Lily Young Love Bulbs are now available. Scientific name of Rain Lily is Zephyranthes while other common names include Zephyr Lily, Magic Lily as well. We offer high quality, imported Rain Lily bulbs that are already forced for immediate blooming. This means you will enjoy a colourful bloom within the 1st year....",
+          "s_description": "Rain Lily Young Love...",
+          "img": "bulb6.jpg"
+        }
+      ]
     }
   ],
   "Plant Care Products": [
