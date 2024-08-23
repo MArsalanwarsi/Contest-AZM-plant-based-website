@@ -25,7 +25,7 @@ fetch(fetchurl)
         for (x in data[i][y]) {
           for (w in data[i][y][x]) {
             gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].heading}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].mdes}"><div class="card h-100 shadow" style="max-width:400px">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" style="max-width:400px">
                             <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top" alt="${data[i][y][x][w].img}">
                           </div>
                         </a>
