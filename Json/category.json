@@ -1,0 +1,46 @@
+{
+  "House plants": [
+    {
+      "Succulents": [],
+      "Cacti": [],
+      "Air plants": [],
+      "Ferns": [],
+      "Spider plants": []
+    }
+  ],
+  "Outdoor Plants": [
+    {
+      "Flowering plants": [],
+      "Shrubs": [],
+      "Trees": [],
+      "Vines": [],
+      "Ground covers": []
+    }
+  ],
+  "Seeds and Bulbs": [
+    {
+      "Flower seeds": [],
+      "Vegetable seeds": [],
+      "Herb seeds": [],
+      "Bulbs for seasonal flowers": []
+    }
+  ],
+  "Plant Care Products": [
+    {
+      "Soil and compost": [],
+      "Fertilizers": [],
+      "Plant food": [],
+      "Pots and planters": [],
+      "Watering cans and misters": []
+    }
+  ],
+  "Home Decor": [
+    {
+      "Terrariums": [],
+      "Plant stands": [],
+      "Hanging planters": [],
+      "Pots and planters": [],
+      "Decorative pots": []
+    }
+  ]
+}
