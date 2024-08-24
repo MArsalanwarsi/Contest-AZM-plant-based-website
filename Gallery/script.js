@@ -18,7 +18,7 @@ fetch(fetchurl)
     document.querySelector(".filter_cat").innerHTML = catego;
   });
 
-function filter_radio(value) { 
+function filter_radio(value) {
   if (value == "ALL") {
     fetch(fetchurl)
       .then((res) => res.json())
@@ -29,9 +29,13 @@ function filter_radio(value) {
             for (x in data[i][y]) {
               for (w in data[i][y][x]) {
                 gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" >
-                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${data[i][y][x][w].img}">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                             <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
                           </div>
+                          
                         </a>
                 </div>`;
               }
@@ -40,7 +44,7 @@ function filter_radio(value) {
         }
         document.querySelector(".galleydata").innerHTML = gallery;
       });
-  }else{
+  } else {
     fetch(fetchurl)
       .then((res) => res.json())
       .then((data) => {
@@ -58,12 +62,17 @@ function filter_radio(value) {
                     data[keys[i]][d][c][b].name
                   }&price=${data[keys[i]][d][c][b].price}&description=${
                     data[keys[i]][d][c][b].m_descrip
-                  }"><div class="card h-100 shadow" >
+                  }" class="text-decoration-none"><div class="card h-100 shadow" >
                             <img src="/Images/Products/${
                               data[keys[i]][d][c][b].img
-                            }" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${
+                            }" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${
                     data[keys[i]][d][c][b].img
                   }">
+                  <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${
+                             data[keys[i]][d][c][b].name
+                           }</h5>
+                        </div>
                           </div>
                         </a>
                 </div>`;
@@ -86,13 +95,16 @@ fetch(fetchurl)
         for (x in data[i][y]) {
           for (w in data[i][y][x]) {
             gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" >
-                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${data[i][y][x][w].img}">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
                           </div>
                         </a>
                 </div>`;
-         }
-       }
+          }
+        }
       }
     }
     document.querySelector(".galleydata").innerHTML = gallery;
@@ -136,3 +148,115 @@ col5.addEventListener("click", () => {
     column[i].classList.add("col-lg-5");
   }
 });
+
+function price_filter() {
+  let min = document.querySelector("#price_filter_min").value;
+  let max = document.querySelector("#price_filter_max").value;
+  let galery_data = document.querySelector(".galleydata");
+  if (min == "" && max == "") {
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        var gallery = "";
+        for (i in data) {
+          for (y in data[i]) {
+            for (x in data[i][y]) {
+              for (w in data[i][y][x]) {
+                gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
+                          </div>
+                        </a>
+                </div>`;
+              }
+            }
+          }
+        }
+        galery_data.innerHTML = gallery;
+      });
+  } else if (min == "") {
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        var gallery = "";
+        for (i in data) {
+          for (y in data[i]) {
+            for (x in data[i][y]) {
+              for (w in data[i][y][x]) {
+                if (parseInt(data[i][y][x][w].price) <= parseInt(max)) {
+                  gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
+                          </div>
+                        </a>
+                </div>`;
+                }
+              }
+            }
+          }
+        }
+        galery_data.innerHTML = gallery;
+      });
+  } else if (max == "") {
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        var gallery = "";
+        for (i in data) {
+          for (y in data[i]) {
+            for (x in data[i][y]) {
+              for (w in data[i][y][x]) {
+                if (parseInt(data[i][y][x][w].price) >= parseInt(min)) {
+                  gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-width:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
+                          </div>
+                        </a>
+                </div>`;
+                }
+              }
+            }
+          }
+        }
+        galery_data.innerHTML = gallery;
+      });
+  } else {
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        var gallery = "";
+        for (i in data) {
+          for (y in data[i]) {
+            for (x in data[i][y]) {
+              for (w in data[i][y][x]) {
+                if (
+                  parseInt(data[i][y][x][w].price) >= parseInt(min) &&
+                  parseInt(data[i][y][x][w].price) <= parseInt(max)
+                ) {
+                  gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
+                          </div>
+                        </a>
+                </div>`;
+                }
+              }
+            }
+          }
+        }
+        galery_data.innerHTML = gallery;
+      });
+  }
+}

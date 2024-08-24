@@ -1,13 +1,13 @@
-let nav = `<nav class="navbar navbar-expand-lg navbar-light bg-light ">
-    <div class="container-fluid p-2">
-        <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 70px; max-height: 70px;">
+let nav = `<nav class="navbar navbar-expand-lg navbar-light">
+    <div class="container-fluid p-0">
+        <img src="/Images/Logo/logo.png" alt="" class="navbar-brand me-auto" style="max-width: 50px; max-height: 50px;">
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ms-5 mb-2 mb-lg-0 gap-4 ">
                 <li class="nav-item dropdown">
                     <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button"
                         data-bs-toggle="dropdown" aria-expanded="false" data-bs-auto-close="outside">
-                        Category
+                        Products
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown" id="category_database">
 
@@ -245,7 +245,7 @@ let footer = `
         <div class="col-md-3 col-lg-3 col-sm-12 mb-sm-5 mb-lg-0 mb-md-0">
             <div class="d-flex align-items-center gap-1 ">
                 <img src="/Images/Logo/logo.png" alt="logo" class="h-100" style="max-height: 50px;">
-                <h6 class="text-success">Bright World</h6>
+                <h6 class="text-success">Plants Paradise</h6>
             </div>
             <div class="ms-3">
                 <h5 class="text-dark">Address</h5>

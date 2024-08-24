@@ -123,8 +123,7 @@ footer .bg_img {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  max-height: 300px;
-  /* min-height: 300px; */
+  min-height: 300px;
   opacity: 0.06;
   z-index: -1;
   top: 20%;

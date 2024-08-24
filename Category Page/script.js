@@ -18,7 +18,7 @@ fetch("/Json/category.json")
                <div class="card h-100 p-4 shadow" style="max-height:450px;min-height:100px;">
                         <img src="/Images/Products/${
                           json[keys[i]][0][sub_cat[y]][a].img
-                        }" class="card-img-top w-100 h-100 border-1 border-black border" style="max-height:250px;min-height:100px;"  alt="${
+                        }" class="card-img-top w-100 h-100 border-1 border-black border" style="max-width:400px;max-height:200px;min-height:200px"  alt="${
               json[keys[i]][0][sub_cat[y]][a].name
             } image">
                         <div class="card-body">

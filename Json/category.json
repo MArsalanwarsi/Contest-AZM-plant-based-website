@@ -6,7 +6,7 @@
           "id": 1,
           "name": "Aloe Vera",
           "price": 800,
-          "s_descriptiontion": "Aloe vera grows as a cluster",
+          "s_description": "Aloe vera grows as a cluster",
           "m_descrip": "Aloe vera grows as a cluster of long, slender leaves on a short stem. Over time, it produces more clusters of leaves called offsets that can form a colony large enough to fill the whole container. And while aloe vera might be most well-known for its healing sap used for centuries to treat wounds and sunburn, it does have sharp teeth along its leaf edges that can cut an unsuspecting passerby, so handle it with care.",
           "img": "succlents1.jpg"
         },
@@ -14,7 +14,7 @@
           "id": 2,
           "name": "Jade plant",
           "price": 1000,
-          "s_descriptiontion": " jade plant, lucky plant or money plant",
+          "s_description": " jade plant, lucky plant or money plant",
           "m_descrip": "Crassula ovata, commonly known as jade plant, lucky plant, money plant or money tree, is a succulent plant with small pink or white flowers that is native to the KwaZulu-Natal and Eastern Cape provinces of South Africa, and Mozambique; it is common as a houseplant worldwide.",
           "img": "succlents2.jpg"
         },
@@ -22,7 +22,7 @@
           "id": 3,
           "name": "string of Pearls",
           "price": 700,
-          "s_descriptiontion": "String-of-beads shared with Curio herreanus",
+          "s_description": "String-of-beads shared with Curio herreanus",
           "m_descrip": "Curio rowleyanus, syn. Senecio rowleyanus, is a flowering plant in the daisy family Asteraceae. It is a creeping, perennial, succulent vine native to the Cape Provinces of South Africa.[1] In its natural environment its stems trail on the ground, rooting where they touch and form dense mats. It often avoids direct sunlight by growing in the shade of other plants and rocks. It is commonly known as string-of-pearls or string-of-beads.",
           "img": "succlents3.jpg"
         },
@@ -30,7 +30,7 @@
           "id": 4,
           "name": "Buro's tail",
           "price": 1200,
-          "s_descriptiontion": "the donkey tail or burro's tail ",
+          "s_description": "the donkey tail or burro's tail ",
           "m_descrip": "Sedum morganianum, the donkey tail or burro's tail, is a species of flowering plant in the family Crassulaceae, native to southern Mexico. It is a succulent perennial producing trailing stems up to 60 cm (24 in) long, with fleshy blue-green leaves and terminal pink to red flowers in summer.[1] S. morganianum has been found wild in two ravines at Tenampa county, in central Veracruz, in eastern Mexico and on vertical cliffs of igneous rock in the Tropical Deciduous Forest zone. Due to its restricted geographic distribution, it should be regarded as a micro-endemic species.",
           "img": "succlents4.jpg"
         },
@@ -39,7 +39,7 @@
           "name": "Panda Plant",
           "price": 400,
           "m_descrip": "The Panda plant, scientifically named Kalanchoe tomentosa, has a distinctive look with fuzzy, red- or brown-rimmed leaves. It’s also nicknamed the pussy ears plant because its triangular leaves look like a cat’s ears. Panda plants are quite small, with a maximum height of 1.5 feet, and are native to Madagascar, where they flower when grown outdoors.",
-          "s_descriptiontion": "scientifically named Kalanchoe tomentosa",
+          "s_description": "scientifically named Kalanchoe tomentosa",
           "img": "succlents5.webp"
         },
         {
@@ -47,7 +47,7 @@
           "name": "Florist Kalanchoe",
           "price": 1500,
           "m_descrip": "Kalanchoe blossfeldiana is a glabrous,[11] bushy, evergreen and perennial succulent plant which (in 2–5 years)[13] can reach an ultimate height of between 30 and 45 cm (12 and 18 in)[2] and an ultimate spread of between 10 and 50 cm (4 and 19.5 in).[13] K. blossfeldiana has a round habit and a moderate plant density; its growth rate has been described as 'slow'.[14] The plant has green,[13] shiny and textured glossy foliage[2] which stays green all year round.[13] The scallop-edged and ovate leaves are arranged in an opposite/subopposite fashion, are simple in type with crenate margins and an oblong shape.[14] The arrangement of the veins in a leaf (venation) can be absent or very hard to see; the leaf blades are 5–10 cm (2–4 in) long.",
-          "s_descriptiontion": "cultivated evergreen house plant ",
+          "s_description": "cultivated evergreen house plant ",
           "img": "succlents6.jpg"
         }
       ],
@@ -57,7 +57,7 @@
           "name": "Angel Wings Cactus",
           "price": 1800,
           "m_descrip": "The Opunta albispina cactus, also known as an angel wing cactus or bunny ears cactus, is a member of the prickly pear family that grows evenly spaced clusters of hairs rather than sharp spines. The Mexican native grows clusters of pads that get no larger than 2 feet tall but can grow up to five feet across over time, making this one of the more popular small indoor cactus types. Proper pruning can help keep this plant small. Pale yellow blooms are followed by red, edible fruits on plants that receive a full day of sun.  ",
-          "s_descriptiontion": "known as an angel wing",
+          "s_description": "known as an angel wing",
           "img": "cacti1.jpg"
         },
         {
@@ -65,7 +65,7 @@
           "name": "Schlumbergera",
           "price": 1400,
           "m_descrip": "Schlumbergera is a small genus of cacti with six to nine species found in the coastal mountains of south-eastern Brazil. These plants grow on trees or rocks in habitats that are generally shady with high humidity, and can be quite different in appearance from their desert-dwelling cousins. Most species of Schlumbergera have stems which resemble leaf-like pads joined one to the other and flowers which appear from areoles at the joints and tips of the stems. Two species have cylindrical stems more similar to other cacti.",
-          "s_descriptiontion": "small genus of cacti",
+          "s_description": "small genus of cacti",
           "img": "cacti2.jpg"
         },
         {
@@ -73,7 +73,7 @@
           "name": "Gymnocalycium",
           "price": 2000,
           "m_descrip": "The species of the genus Gymnocalycium are low-growing, usually solitary or sometimes small cushion-forming plants with globose, depressed-globular to short-cylindrical stems. The 4 to 15 (rarely more) ribs are usually broadly rounded, often sinuous, occasionally warty, and often have a chin just below the areoles. The thorns are very variable. The diurnal, funnel- or bell-shaped flowers appear at or near the apex. They are white or pink, sometimes yellow or bright red. The flower cup and the corolla are covered with a few large, broad and obtuse scales that have membranous edges. The areoles are bare. The perianth is usually spread. The stamens form two circles. The first surrounds the nectar chamber, the second is attached near the opening of the corolla. The oblong to spherical fruits are dry or fleshy and spring up in various ways. A permanent flower residue adheres to them. The seeds are very variable. Their color ranges from brown to black, the size from quite small to relatively very large.",
-          "s_descriptiontion": " commonly called chin cactus",
+          "s_description": " commonly called chin cactus",
           "img": "cacti3.jpg"
         },
         {
@@ -81,7 +81,7 @@
           "name": "Euphorbia trigona",
           "price": 1800,
           "m_descrip": "Euphorbia trigona, the African milk tree,[1] cathedral cactus,[1] or Abyssinian euphorbia,[2] is a species of flowering plant that originates from Central Africa. Somewhat common in cultivation as a houseplant or as a hedge, the species is one of the euphorbias with succulent stems and branches as an adaptation to arid climates.",
-          "s_descriptiontion": "Euphorbia trigona, the African milk tree",
+          "s_description": "Euphorbia trigona, the African milk tree",
           "img": "cacti4.jpg"
         },
         {
@@ -89,7 +89,7 @@
           "name": "Prickly Pear Cactus",
           "price": 2100,
           "m_descrip": "The same paddle-shaped cacti that bear brightly colored, edible fruits when grown outdoors can also thrive as houseplants in the right conditions. Put them in a brightly lit window with a southern or western exposure so they can soak up as much direct sunlight as possible—without enough light, the pads will grow long and skinny rather than wide and full.",
-          "s_descriptiontion": "The same paddle-shaped cacti",
+          "s_description": "The same paddle-shaped cacti",
           "img": "cacti5.jpg"
         },
         {
@@ -97,7 +97,7 @@
           "name": "Aporocactus flagelliformis",
           "price": 1800,
           "m_descrip": "Stems ascending, later prostrate or pendent, profusely branching at base, 1–2 m long or more, 8–24 mm thick; ribs 7-14, obtuse; margins ± tuberculate; areoles minute, whitish; internodes 4–8 mm; spines 8-20, 3-8 (-10) mm long, bristle-like, yellowish to brownish; epidermis green, later grayish. Flowers zygomorphic, 7–10 cm long, 2-4 (-7,5) cm wide, limb bilaterally symmetric, oblique, diurnal, open for 3–5 days, scentless; pericarpel greenish with acute bracteoles; receptacle 3 cm, long, curved just above pericarpel, bracteoles, brownish, acute; outer tepals linear-lanceolate, ± reflexed, 2–3 cm long, 6 mm wide, crimson; inner tepals narrowly oblong, to 10 mm wide, crimson, sometimes passing to pink along the margins; stamens white to pale pink, erect, exserted; style stigma lobes 5-7, white Fruit globose, 10–12 mm long, red, bristly, pulp yellowish; seeds ovoid, brownish red.",
-          "s_descriptiontion": "flowering plant in the cactus family Cactaceae",
+          "s_description": "flowering plant in the cactus family Cactaceae",
           "img": "cacti6.jpg"
         }
       ],
@@ -107,7 +107,7 @@
           "name": "Nephrolepis exaltata",
           "price": 1700,
           "m_descrip": "Boston fern is a terrestrial or epiphytic, herbaceous perennial fern in the polypody family (Polypodiaceae). It is native to tropical and subtropical America and commonly grown as a houseplant in North Carolina and other USDA zones cooler than 10a. The species epithet is Latin for  very tall. Plant in bright, indirect light and warmth (60 to 70 degrees Fahrenheit). This fern needs high humidity and moist soil that should never be allowed to dry out. Place near kitchens and bathrooms for higher humidity or set on a tray of wet pebbles. In the winter, reduce watering as the plant is dormant and overwatering can lead to root rot. This plant removes indoor air pollutants well and is resistant to deer and heavy shade in the landscape. It grows to 2 to 3 feet in height and width. Boston fern produces spores on the underside of the leaves. These are dark brown to black dots that appear in a pattern. Do not mistake these for insects or disease damage.  ",
-          "s_descriptiontion": "Both indoors and outdoors Boston fern",
+          "s_description": "Both indoors and outdoors Boston fern",
           "img": "air1.jpg"
         },
         {
@@ -115,7 +115,7 @@
           "name": "Golden Pothos",
           "price": 1500,
           "m_descrip": " Solomon Islands Light: Pothos prefers bright but indirect light although they can also adapt to partial shade. Variegated plants sometimes lose their leaf pattern and revert to all-green plants if they don’t get enough light; moving them to brighter conditions usually restores the variegation. Suddenly paler-looking leaves mean the plant is getting too much sun. If you notice it is getting leggy, it may need more light. Water: Pothos like to have their soil dry out completely between waterings. If left continually in damp soil, the roots will rot. Black spots on the leaves and the sudden collapse of the plant indicate the soil has been kept too wet. Let the plant tell you when to water — when it starts to droop, it needs a good drink. However, don’t wait until the leaves start to shrivel or you will lose some leaves. Dry, brown edges mean the plant was kept dry too long. Soil: Pothos plants thrive in ordinary, well-draining potting soil. Temperature: Pothos should be kept at room temperature of 18 to 24°C. Fertilizer: Pothos aren’t heavy feeders, but since there are no nutrients in most potting soils, feed monthly to bi-monthly with any balanced houseplant fertilizer during growing season. Humidity: This plant likes high humidity but it is very tolerant and can thrive even where there is low humidity. For best results, mist once a week in the summer and once every two weeks in the winter. Pruning: Keep the stems trimmed relatively short to keep foliage full along the full stems. If stems grow bare, they can be cut back to the soil level, and new stems will sprout. Re-Potting: Eventually, your Pothos will become pot bound. When the leaves droop, no matter how much or often you water them, the roots have probably filled the pot. Carefully lift the plant and check to see if this is the problem. When the plant has reached this stage, you can re-pot in a container one or two sizes larger, filled with fresh potting soil. Propagation: This plant is easily propagated simply by taking stem cuttings and rooting them in water or in potting soil. Move cuttings rooted in water into the soil as soon as possible so they can begin getting nutrients. Diseases and Pests: Diseases and pest problems in Epipremnum are not common, although they do exist. One of the biggest culprits of both is overwatering so watering plants only when they need it will help prevent problems. Toxicity: These plants are poisonous. Keep them away from children and pets and take care when handling.",
-          "s_descriptiontion": "Solomon Islands Light  Pothos",
+          "s_description": "Solomon Islands Light  Pothos",
           "img": "air2.jpg"
         },
         {
@@ -123,7 +123,7 @@
           "name": "Ficus elastica",
           "price": 1000,
           "m_descrip": "Ficus elastica, the rubber fig, rubber bush, rubber tree, rubber plant, or Indian rubber bush, Indian rubber tree, is a species of flowering plant in the family Moraceae, native to eastern parts of South and Southeast Asia. It has become naturalized in Sri Lanka, the West Indies, and the US state of Florida.[2][3] Despite its common names, it is not used in the commercial production of natural rubber.",
-          "s_descriptiontion": "the rubber fig, rubber bush",
+          "s_description": "the rubber fig, rubber bush",
           "img": "air3.jpg"
         },
         {
@@ -131,7 +131,7 @@
           "name": "Areca Palm",
           "price": 4000,
           "m_descrip": "Every few years you’ll need to repot your Areca Palm. The roots prefer a tight container but when they’re too crowded, it will limit the size of the plant. By repotting the plant, you’re going to be replacing the older potting soil that it’s been living in for the past two to three years, and you’ll be giving it newer nutrients that have been leeched out of the soil that it’s been living in. When repotting your plant, be sure that you’re potting it in the same depth as the previous pot. If you plant it too deeply it can cause serious injury to the roots and the rest of the plant. Roots can be very brittle so make sure that you’re very gentle and don’t even try to separate or spread them out. Gently pack the soil around the roots with your fingers and make sure that you’re not over pressing the soil so that you won’t break the fragile roots. After you’ve pressed the soil in, water it deeply and gently press the soil down again to remove any air pockets. Add more soil if required after pressing this soil down.",
-          "s_descriptiontion": ": Loves light and can even tolerate",
+          "s_description": ": Loves light and can even tolerate",
           "img": "air4.jpg"
         },
         {
@@ -139,7 +139,7 @@
           "name": "Philodendron",
           "price": 3000,
           "m_descrip": "Philodendron is a large genus of flowering plants in the family Araceae. As of June 2024, the Plants of the World Online accepted 621 species;[2] other sources accept different numbers.[3][4] Regardless of number of species, the genus is the second-largest member of the family Araceae, after genus Anthurium. Taxonomically, the genus Philodendron is still poorly known, with many undescribed species. Many are grown as ornamental and indoor plants. The name derives from the Greek words philo- 'love, affection' and dendron 'tree'. The generic name, Philodendron, is often used as the English name.",
-          "s_descriptiontion": "large genus of flowering plants ",
+          "s_description": "large genus of flowering plants ",
           "img": "air5.jpg"
         },
         {
@@ -147,7 +147,7 @@
           "name": "Chrysanthemum",
           "price": 1900,
           "m_descrip": "The genus Chrysanthemum are perennial herbaceous flowering plants, sometimes subshrubs. The leaves are alternate, divided into leaflets and may be pinnatisect, lobed, or serrate (toothed) but rarely entire; they are connected to stalks with hairy bases.[7] The compound inflorescence is an array of several flower heads, or sometimes a solitary head. The head has a base covered in layers of phyllaries. The simple row of ray florets is white, yellow, or red. The disc florets are yellow. Pollen grains are approximately 34 microns.[citation needed] The fruit is a ribbed achene.",
-          "s_descriptiontion": "They are native to East Asia",
+          "s_description": "They are native to East Asia",
           "img": "air6.jpg"
         }
       ],
@@ -157,7 +157,7 @@
           "name": "Phlebodium aureum Fern",
           "price": 3000,
           "m_descrip": "It is a rhizomatous fern, with the creeping rhizome 8–15 mm (rarely 30 mm) in diameter, densely covered in the golden-brown scales that give the species its name. The fronds are large and pinnatifid (deeply lobed), from 30 to 130 cm long and 10–50 cm broad, with up to 35 pinnae; they vary in color from bright green to glaucous green and have undulate margins. Several round sori run along each side of the pinna midrib, and the minute spores are wind-dispersed. The fronds are evergreen in areas with year-round rainfall, semi-evergreen or briefly deciduous in areas with a marked dry season.",
-          "s_descriptiontion": "the creeping rhizome",
+          "s_description": "the creeping rhizome",
           "img": "fern1.jpg"
         },
         {
@@ -165,7 +165,7 @@
           "name": "Bird's Nest Fern",
           "price": 800,
           "m_descrip": "Leathery fronds with wavy edges radiate from the center of the plant to create a striking vase shape that vaguely resembles a nest. Because these indoor ferns love high humidity, they're great plants to grow in your bathroom, if you have a window providing plenty of indirect light.",
-          "s_descriptiontion": "Leathery fronds with wavy edges",
+          "s_description": "Leathery fronds with wavy edges",
           "img": "fern2.jpg"
         },
         {
@@ -173,7 +173,7 @@
           "name": "Nephrolepis exaltata Fern",
           "price": 1700,
           "m_descrip": "Boston fern is a terrestrial or epiphytic, herbaceous perennial fern in the polypody family (Polypodiaceae). It is native to tropical and subtropical America and commonly grown as a houseplant in North Carolina and other USDA zones cooler than 10a. The species epithet is Latin for  very tall. Plant in bright, indirect light and warmth (60 to 70 degrees Fahrenheit). This fern needs high humidity and moist soil that should never be allowed to dry out. Place near kitchens and bathrooms for higher humidity or set on a tray of wet pebbles. In the winter, reduce watering as the plant is dormant and overwatering can lead to root rot. This plant removes indoor air pollutants well and is resistant to deer and heavy shade in the landscape. It grows to 2 to 3 feet in height and width. Boston fern produces spores on the underside of the leaves. These are dark brown to black dots that appear in a pattern. Do not mistake these for insects or disease damage.  ",
-          "s_descriptiontion": "Both indoors and outdoors Boston fern",
+          "s_description": "Both indoors and outdoors Boston fern",
           "img": "fern3.jpg"
         },
         {
@@ -181,7 +181,7 @@
           "name": "Phlebodium Aureum Fern",
           "price": 1600,
           "m_descrip": "Simply Houseplant has been designed from the ground up as a high-quality, all-purpose repotting mix designed to give excellent results with a wide range of indoor houseplants. Produced with a uniquely formulated base of Coco Coir, Growfibre, Bark and Perlite, Simply Houseplant also comes amended with a specially formulated nutritional profile designed to give your houseplants a nutritional boost from the start. The nutritional profile of Simply Houseplant has been designed with tropical houseplants in mind, to make available all the key nutrients needed for the strong growth of indoor foliage plants, at the right proportions, for the first 6-8 weeks once repotted. ",
-          "s_descriptiontion": "Phlebodium Aureum Blue Star Fern",
+          "s_description": "Phlebodium Aureum Blue Star Fern",
           "img": "fern4.jpg"
         },
         {
@@ -189,7 +189,7 @@
           "name": "Button Fern",
           "price": 1850,
           "m_descrip": "With its compact size and fronds studded with soft, round leaves, this fern is great for smaller spaces. Like many other ferns on this list, the button fern is a great bathroom plant due to its love of humidity—just place it near a window out of the direct sunlight (east-facing or north-facing is ideal) and the steam from your shower will keep it healthy.",
-          "s_descriptiontion": "compact size and fronds studded with soft",
+          "s_description": "compact size and fronds studded with soft",
           "img": "fern5.jpg"
         },
         {
@@ -277,8 +277,8 @@
           "id": 33,
           "name": "Garden Shrubs",
           "price": 4500,
-          "m_descrip": " backdrop for your garden",
-          "s_description": "Shrubs are the perfect backdrop for your garden, whether it’s a large plot or a tiny courtyard, and are a big draw for natural pollinators. In all sizes, shapes and colours, we have shrubs for every location and taste, from charming hydrangeas to butterfly hero buddleias and scented choisya. For perennial colour, visit our flowering bulbs page for a fabulous selection.",
+          "s_description": " backdrop for your garden",
+          "m_descrip": "Shrubs are the perfect backdrop for your garden, whether it’s a large plot or a tiny courtyard, and are a big draw for natural pollinators. In all sizes, shapes and colours, we have shrubs for every location and taste, from charming hydrangeas to butterfly hero buddleias and scented choisya. For perennial colour, visit our flowering bulbs page for a fabulous selection.",
           "img": "shrub3.jpg"
         },
 
@@ -578,11 +578,256 @@
   ],
   "Home Decor": [
     {
-      "Terrariums": [],
-      "Plant stands": [],
-      "Hanging planters": [],
-      "Pots and planters": [],
-      "Decorative pots": []
+      "Terrariums": [
+        {
+          "id": 120,
+          "name": "Peperomia Care",
+          "price": 1500,
+          "m_descrip": "Peperomia are incredibly easy-going, low-care houseplants–great for beginners! Native to South American rainforests, Peperomia grow in the cool understory of the rainforest. Slow-growing and compact, some varieties of Peperomia are often mistaken as succulents.",
+          "s_description": "Peperomia Plants love bright, indirect light, but protect them from direct sunlight or the leaves will burn.",
+          "img": "terrariums1.jpg"
+        },
+        {
+          "id": 121,
+          "name": "Mosses",
+          "price": 1800,
+          "m_descrip": "Botanically, mosses are non-vascular plants in the land plant division Bryophyta. They are usually small (a few centimeters tall) herbaceous (non-woody) plants that absorb water and nutrients mainly through their leaves and harvest carbon dioxide and sunlight to create food by photosynthesis.",
+          "s_description": "Mosses are seedless plants.",
+          "img": "terrariums2.jpg"
+        },
+        {
+          "id": 122,
+          "name": "Asparagus fern, Asparagus setaceus",
+          "price": 1600,
+          "m_descrip": "Asparagus setaceus, commonly called asparagus fern, is not in fact a fern. It is a bushy, evergreen, twining vine with wiry, spiny, scrambling or climbing stems that typically grow to 10-20' long.",
+          "s_description": "asparagus is a seasonal vegetable, only available in spring",
+          "img": "terrariums3.jpg"
+        },
+        {
+          "id": 123,
+          "name": "Pilea",
+          "price": 1400,
+          "m_descrip": "Pilea make ideal indoor plants thanks to their incredibly diverse foliage types and relatively easy-care nature. Now you’re probably scratching your head thinking you’ve never heard of this plant genus, but if you know the aluminium plant or Chinese money plant then you already know some pileas!",
+          "s_description": "pileas should be positioned in bright light but out of direct sunlight",
+          "img": "terrariums4.jpg"
+        },
+        {
+          "id": 124,
+          "name": "Creeping figs",
+          "price": 1300,
+          "m_descrip": "In its natural habitat, creeping fig is a climbing, woody vine that uses aerial roots to climb trees and rocks. When introduced outside its natural home, it can spread aggressively and has become invasive in some areas.",
+          "s_description": "Creeping fig is also one of the best plants for topiary",
+          "img": "terrariums5.jpg"
+        },
+        {
+          "id": 125,
+          "name": "Strawberry begonia ",
+          "price": 1200,
+          "m_descrip": "Saxifraga stolonifera (Strawberry Begonia) Award-winning Saxifraga stolonifera (Strawberry Begonia) is a mat-forming evergreen perennial producing charming rosettes of rounded, dark green leaves adorned with pretty silver markings and reddish undersides.",
+          "s_description": "Begonia contains metabolites luteolin, B-sitosterol and quercetin.",
+          "img": "terrariums6.jpg"
+        }
+      ],
+      "Plant stands": [
+        {
+          "id": 126,
+          "name": "Metal Plant Stand",
+          "price": 1900,
+          "m_descrip": "What is the purpose of a plant stand? A plant stand may seem to be an inconsequential object, but it can serve many purposes. Some plant stands serve as pieces of furniture or artwork in homes, giving a tasteful touch to the energy of a room. Of course, the main goal is to get the plant off the floor and onto an elevated surface of its own.",
+          "s_description": "A plant can not stand erect without a cell wall.",
+          "img": "plantstand1.jpg"
+        },
+        {
+          "id": 127,
+          "name": "Wooden Plant Stand ",
+          "price": 2200,
+          "m_descrip": "out this item Triangular Design & high temperature carbonization: Considering both symmetrical aesthetics and triangle mechanics; adopts 100% Natural Solid Eucalyptus wood which has a smooth surface and a stable structure, uses artificial 300°C high temperature carbonization technology,so it's moisture-proof and solid structure make this plant stand durable and strong enough for your daily use.",
+          "s_description": "Wooden Plant Stand Multi Plant Stand is Used for Terrace Living Room Corner Balcony and Garden",
+          "img": "plantstand2.jpg"
+        },
+        {
+          "id": 128,
+          "name": " Hanging Plant Stand",
+          "price": 2000,
+          "m_descrip": "Make crowded shelves and tabletops a thing of the past by hanging your houseplants from your ceilings and walls. The following varieties of hanging indoor plants and their trailing stems, dangling leaves, and gracefully arching shapes will make the best use of your home's vertical spaces.",
+          "s_description": "Trailing plants are often called 'spillers' as they trail over the edge of a hanging basket or pot.",
+          "img": "plantstand3.jpg"
+        },
+        {
+          "id": 129,
+          "name": "Tiered Plant Stand",
+          "price": 3000,
+          "m_descrip": "This ornate Two Tier Plant Stand is handmade in the UK by Poppy Forge from 10mm solid steel, then powder coated with a black polyester over iron phosphate primer, with an antique finish to leave it impenetrable to harsh conditions. Just perfect for creating height and colour in a walled garden, patio area or indoors. Raising your flowering pots and herbs off the floor, makes them easily accessible and displays them perfectly.",
+          "s_description": "Poppy Forge Two Tiered Plant Stand",
+          "img": "plantstand4.jpg"
+        },
+        {
+          "id": 130,
+          "name": "Ceramic Plant Stand",
+          "price": 2500,
+          "m_descrip": "We have crafted our flower stands with a delightful fusion of style and simplicity. Our stands are the perfect choice to showcase your blossoming blooms and create an enchanting ambiance. Elevate your floral displays effortlessly with these stunning stands, designed to complement any space.",
+          "s_description": "suitable for a wide range of plants and decorative styles",
+          "img": "plantstand5.jpg"
+        },
+        {
+          "id": 131,
+          "name": "Adjustable Plant Stand",
+          "price": 2700,
+          "m_descrip": "ADJUSTABLE & VERSATILE - Customize your décor with our indoor plant accessories! Adjust its width from 8 to 12 inches or flip it. Be it tall, large, short, or small—this wood plant stool fits your needs.",
+          "s_description": "Create your plant paradise with our easy-to-assemble plant stands",
+          "img": "plantstand6.jpg"
+        }
+      ],
+      "Hanging planters": [
+        {
+          "id": 132,
+          "name": "Macrame Twist Plant Hanger",
+          "price": 1800,
+          "m_descrip": "A macrame plant hanger is a decorative hanging plant support that is made by knotting fabric or cords together.",
+          "s_description": "Hang your plant!",
+          "img": "hangingplanter1.jpg"
+        },
+        {
+          "id": 133,
+          "name": "Ceramic Hanging Planter",
+          "price": 1900,
+          "m_descrip": "Perfect for trailing plants, this ceramic planter is ready to hang your favorite small plant. It is suspended by 4 sturdy leather cords, adding a soft touch and long lasting support.",
+          "s_description": "Maximizing Space with Hanging Basket Plants",
+          "img": "hangingplanter2.jpg"
+        },
+        {
+          "id": 134,
+          "name": "Metal Hanging Planter",
+          "price": 1400,
+          "m_descrip": "100% NATURAL COCO FIBRE:Hanging pots for plants outdoor is made of natural coconut fiber,it is lightweight,provides good drainage,which can help to keep plants healthy and hydrated,ensure that your plants grow well and remain healthy in their outdoor environment.",
+          "s_description": "hanging planters for outdoor",
+          "img": "hangingplanter3.jpg"
+        },
+        {
+          "id": 135,
+          "name": " Glass Hanging Plant Terrarium",
+          "price": 2300,
+          "m_descrip": "Terrariums add a touch of natural beauty to any room, they’re easy to maintain, and they allow for almost unlimited creativity, all in a tiny container. This open-front design is perfect for succulents, as it allows good airflow and keeps a good amount of heat inside but prevents moisture from escaping too quickly.",
+          "s_description": "Simply add your favorite succulent soil and a beautiful plant, and the rest is up to your imagination",
+          "img": "hangingplanter4.jpg"
+        },
+        {
+          "id": 136,
+          "name": "Coconut Shell Hanging Planter",
+          "price": 2200,
+          "m_descrip": "Each hanging planter comes with drainage holes to keep your plant well-drained and a strong woven jute cord so you can hang them up easily. The planter is perfect for indoor and outdoor plants and is a great alternative to using plastic pots.",
+          "s_description": " 100% natural and durable.",
+          "img": "hangingplanter5.jpg"
+        },
+        {
+          "id": 137,
+          "name": "Hanging Plastic Pots",
+          "price": 1500,
+          "m_descrip": "A plastic hanging pot is a container for plants that is suspended in the air. It is typically made of a lightweight and durable plastic, such as polyethylene or polypropylene. Hanging pots come in a variety of shapes and sizes, and can be used to grow both indoor and outdoor plants.",
+          "s_description": "Hanging Baskets Pots for Outdoor",
+          "img": "hangingplanter6.jpg"
+        }
+      ],
+      "Pots and planters": [
+        {
+          "id": 138,
+          "name": "Groovy Flower Planter",
+          "price": 500,
+          "m_descrip": "These bright little planters are uniquely shaped like flowers, made from ceramic and available in an assortment of colours. Suitable for any decor style, they will add a pop of colour to your space. Use as a planter or even as a jar for candy or chocolate! Versatile and stylish, we recommend displaying indoors or undercover to protect the colours.",
+          "s_description": "Ceramic Flower Planter",
+          "img": "pots&planter1.jpg"
+        },
+        {
+          "id": 139,
+          "name": "Lulu Pot Planter",
+          "price": 1200,
+          "m_descrip": "With the look of glazed ceramic, our handpainted Lulu Pot Planter is crafted from a lightweight fiberglass and resin composite and finished with a weather-resistant topcoat that resists chipping and pealing.",
+          "s_description": "use in covered, shaded area Fill to one-third capacity",
+          "img": "pots&planter2.jpg"
+        },
+        {
+          "id": 140,
+          "name": "Cactus Plants Pack",
+          "price": 599,
+          "m_descrip": "Cacti are plants that have succulent stems, pads or branches with scales and spines instead of leaves. Cactus pads are actually modified stems with a waxy coating. The prickly spines are modified leaves that break up the evaporative winds blowing across pad surfaces, and help shade the stem",
+          "s_description": "They grow in dry places where other plants have trouble living",
+          "img": "pots&planter3.jpg"
+        },
+        {
+          "id": 141,
+          "name": "Diamond Pattern Metal Pot Planter",
+          "price": 1499,
+          "m_descrip": "Enhance the look of your beloved plants by giving them a stylish place to sit with this 2-piece metal pot planter set. These planters have a contemporary modern style that is inspired by a minimalist design, making them the perfect choice to brighten up your decor. Each metal cachepot planter has a stamped diamond design available in a black or white finish.",
+          "s_description": "The plant pots are made of durable iron to ensure they last for years",
+          "img": "pots&planter4.jpg"
+        },
+        {
+          "id": 142,
+          "name": "Creative Wall Planter",
+          "price": 1200,
+          "m_descrip": "Growing plants vertically not only saves space, but it also adds a unique design element to any room. Consider choosing our Indoor/Outdoor Hanging Pot to help you add a touch of plant life to your home, office, or porch. ",
+          "s_description": "These beauties are available in small and large sizes",
+          "img": "pots&planter5.jpg"
+        },
+        {
+          "id": 143,
+          "name": "Plant pot PILLUM",
+          "price": 1000,
+          "m_descrip": "Plant pot PILLUM pure made of powder-coated steel is the perfect choice for anyone who wants to present plants in style. Thanks to its robust construction, this planter is suitable for both indoor and outdoor use. The powder-coated finish ensures durability and protects the pot from the influences of weather.The plant can only be placed directly in the pot outdoors, indoors it serves as a planter.",
+          "s_description": "Modern plant pot made of powder-coated steel for indoor and outdoor use",
+          "img": "pots&planter6.jpg"
+        }
+      ],
+      "Decorative pots": [
+        {
+          "id": 144,
+          "name": "Cute Round Plant Flower Pots",
+          "price": 700,
+          "m_descrip": "100% brand new and high quality Candy color,very nice and cute Suitable for plant flowers, plants, especially succulent. Can be detachable and stored water Practical Resin Round Garden Office Desk Home Decor Planter Plant Flower Pot This series of flower pot are very cute, with different colors, and made of high quality materials",
+          "s_description": "Garden Office Decor Planter Plastic Plant Flower Pots",
+          "img": "decorativepots1.jpg"
+        },
+        {
+          "id": 145,
+          "name": "Gold Electroplating Flower Pots",
+          "price": 800,
+          "m_descrip": "These simple gold electroplating flower pots can be the perfect choice for you. This product is made of high-quality ceramic material, can meet the sufficient growth space of plants, very suitable for planting flowers at home or office.",
+          "s_description": "Gold Electroplating Flower Pots are made of high-quality material, lightweight and durable",
+          "img": "decorativepots2.jpg"
+        },
+        {
+          "id": 146,
+          "name": "Artificial Flower Pot Plants",
+          "price": 400,
+          "m_descrip": "Artificial flowers are imitations of natural flowering plants used for commercial or residential decoration.",
+          "s_description": "A flower is the reproductive part of flowering plants",
+          "img": "decorativepots3.jpg"
+        },
+        {
+          "id": 147,
+          "name": "Painterly Pots",
+          "price": 850,
+          "m_descrip": "Hand-painted metal pots are a unique and artistic way to add color and style to any living space. Crafted by skilled artisans. These pots can be a statement piece or a subtle accent, enhancing the aesthetic appeal of your home.",
+          "s_description": "high-quality materials, it’s both beautiful and durable",
+          "img": "decorativepots4.jpg"
+        },
+        {
+          "id": 148,
+          "name": "Diamond Flower Pot",
+          "price": 700,
+          "m_descrip": "Our flower pot has a sleek shape and a unique pattern that can add a pleasant touch to any space and improve the décor of your home or garden. It is made using eco-friendly materials, making it a great choice for environmentally conscious customers. By choosing this planter, you are not only enhancing your home & Garden but also contributing to a happier life.",
+          "s_description": "This Pot is as Adaptable as your creativity",
+          "img": "decorativepots5.jpg"
+        },
+        {
+          "id": 149,
+          "name": "Fake Plant Flower Potted",
+          "price": 1200,
+          "m_descrip": "Artificial Plant Bonsai Fake Flower Potted Plant Decoration Home Hotel Garden Decoration Gift.Perfect as a warm gift for a housewarming or wedding event, or keep it in your own home for a touch of glamour and elegance.",
+          "s_description": "The bright color design and beautiful flowers make it very layered and attractive.",
+          "img": "decorativepots6.jpg"
+        }
+      ]
     }
   ]
 }
