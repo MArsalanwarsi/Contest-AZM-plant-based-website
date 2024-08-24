@@ -3,11 +3,14 @@ fetch(fetchurl)
   .then((res) => res.json())
   .then((data) => {
     let keys = Object.keys(data);
-    var catego = ``;
+    var catego = `<div class="custom-control custom-checkbox">
+                                                <input type="radio" class="custom-control-input" id="Check0" name="cat_check" value="ALL" onclick="filter_radio(this.value)" checked>
+                                                <label class="custom-control-label" for="Check0">All Products</label>
+                                            </div>`;
     let counting = 1;
     for (i in keys) {
       catego += `<div class="custom-control custom-checkbox">
-                                                <input type="checkbox" class="custom-control-input" id="Check${counting}">
+                                                <input type="radio" class="custom-control-input" id="Check${counting}" name="cat_check" value="${keys[i]}" onclick="filter_radio(this.value)">
                                                 <label class="custom-control-label" for="Check${counting}">${keys[i]}</label>
                                             </div>`;
       counting++;
@@ -15,6 +18,64 @@ fetch(fetchurl)
     document.querySelector(".filter_cat").innerHTML = catego;
   });
 
+function filter_radio(value) { 
+  if (value == "ALL") {
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        var gallery = "";
+        for (i in data) {
+          for (y in data[i]) {
+            for (x in data[i][y]) {
+              for (w in data[i][y][x]) {
+                gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${data[i][y][x][w].img}">
+                          </div>
+                        </a>
+                </div>`;
+              }
+            }
+          }
+        }
+        document.querySelector(".galleydata").innerHTML = gallery;
+      });
+  }else{
+    fetch(fetchurl)
+      .then((res) => res.json())
+      .then((data) => {
+        let keys = Object.keys(data);
+        let output = "";
+        for (var i in keys) {
+          if (keys[i] == value) {
+            for (d in data[keys[i]]) {
+              for (c in data[keys[i]][d]) {
+                for (b in data[keys[i]][d][c]) {
+                  output += `<div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${
+                      data[keys[i]][d][c][b].id
+                    }&img=${data[keys[i]][d][c][b].img}&heading=${
+                    data[keys[i]][d][c][b].name
+                  }&price=${data[keys[i]][d][c][b].price}&description=${
+                    data[keys[i]][d][c][b].m_descrip
+                  }"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${
+                              data[keys[i]][d][c][b].img
+                            }" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${
+                    data[keys[i]][d][c][b].img
+                  }">
+                          </div>
+                        </a>
+                </div>`;
+                }
+              }
+            }
+          }
+        }
+        document.querySelector(".galleydata").innerHTML = output;
+      });
+  }
+}
 
 fetch(fetchurl)
   .then((res) => res.json())
@@ -25,8 +86,8 @@ fetch(fetchurl)
         for (x in data[i][y]) {
           for (w in data[i][y][x]) {
             gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
-                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" style="max-width:400px">
-                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top" alt="${data[i][y][x][w].img}">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px" alt="${data[i][y][x][w].img}">
                           </div>
                         </a>
                 </div>`;
