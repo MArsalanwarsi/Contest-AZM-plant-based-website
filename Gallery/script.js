@@ -260,3 +260,40 @@ function price_filter() {
       });
   }
 }
+$("#search_box").keyup(function () {
+  var filter = $("#search_box").val();
+  fetch(fetchurl)
+    .then((res) => res.json())
+    .then((data) => {
+      var gallery = "";
+      for (i in data) {
+        for (y in data[i]) {
+          for (x in data[i][y]) {
+            for (w in data[i][y][x]) {
+              if (
+                data[i][y][x][w].name
+                  .toLowerCase()
+                  .includes(filter.toLowerCase())
+              ) {
+                gallery += ` <div class="col-md-3 col-lg-3 col-sm-12 cardcolumn d-flex justify-content-center align-items-center">
+                    <a href="/Description_page/index.html?id=${data[i][y][x][w].id}&img=${data[i][y][x][w].img}&heading=${data[i][y][x][w].name}&price=${data[i][y][x][w].price}&description=${data[i][y][x][w].m_descrip}" class="text-decoration-none"><div class="card h-100 shadow" >
+                            <img src="/Images/Products/${data[i][y][x][w].img}" class="card-img-top w-100 h-100" style="max-width:400px;max-height:200px;min-height:200px" alt="${data[i][y][x][w].img}">
+                            <div class="card-body">
+                           <h5 class="card-title text-dark text-decoration-none">${data[i][y][x][w].name}</h5>
+                        </div>
+                          </div>
+                        </a>
+                </div>`;
+              }
+            }
+          }
+        }
+      }
+      document.querySelector(".galleydata").innerHTML = gallery;
+    });
+  // $(".galleydata")
+  //   .find(".card-title:not(:contains(" + filter + "))")
+  //   .parent()
+  //   .parent()
+  //   .css("display", "none");
+});

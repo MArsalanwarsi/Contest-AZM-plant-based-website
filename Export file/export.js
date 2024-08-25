@@ -30,6 +30,11 @@ let nav = `<nav class="navbar navbar-expand-lg navbar-light">
             </ul>
         </div>
         <div class="d-flex justify-content-center align-items-center me-lg-5 me-md-5 me-sm-3 gap-4">
+        <div class="btn-group">
+                <a href="/Gallery/index.html" class="cart text-dark  fs-5">
+                <i class="bi bi-search text-success"></i>
+                </a>
+            </div>
             <div class="btn-group">
                 <a class="btn btn-group fs-5" data-bs-toggle="dropdown" data-bs-auto-close="outside"><i
                         class="fa-solid fa-user text-success "></i></a>
@@ -239,10 +244,10 @@ let shoppingcart = () => {
   }
 };
 let footer = ` 
-<div class="container-fluid py-5 px-5 bg bg-white text-black-50 mb-5 mt-5 position-relative">
+<div class="container-fluid ps-2 bg bg-white text-black-50 mb-5 mt-5 position-relative">
 
     <div class="row">
-        <div class="col-md-3 col-lg-3 col-sm-12 mb-sm-5 mb-lg-0 mb-md-0">
+        <div class="col-md-2 col-lg-2 col-sm-12 mb-sm-5 mb-lg-0 mb-md-0">
             <div class="d-flex align-items-center gap-1 ">
                 <img src="/Images/Logo/logo.png" alt="logo" class="h-100" style="max-height: 50px;">
                 <h6 class="text-success">Plants Paradise</h6>
@@ -254,7 +259,7 @@ let footer = `
             <a class="btn btn btn-outline-success ms-3 px-5" href="/Contact_Us/index.html">Contact Us</a>
 
         </div>
-        <div class="col-md-2 col-lg-2 col-sm-12">
+           <div class="col-md-2 col-lg-2 col-sm-12">
             <div class="container">
                         <h3 class="text-dark py-3">Quick Links</h3>
                         <li class="footerlinks list-unstyled"><a href="/index.html"
@@ -266,8 +271,8 @@ let footer = `
                                 Us</a></li>
             </div>
         </div>
-        <div class="col-md-7 col-lg-7 col-sm-12">
-            <div class="container-fluid">
+        <div class="col-md-8 col-lg-8 col-sm-12">
+            <div class="container-fluid p-0">
                 <div class="row" id="footer_cata">
                 </div>
             </div>
@@ -303,7 +308,7 @@ let category_database = () => {
         ${main_keys[i]}
     </a>
     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">`;
-        footer_cat_data += `<div class="col-md-4 col-lg-4 col-sm-12">
+        footer_cat_data += `<div class="col-md-2 col-lg-2 col-sm-12">
     <h3 class="text-dark py-3">${main_keys[i]}</h3>`;
         var sub_keys = Object.keys(data[main_keys[i]][0]);
         for (var y in sub_keys) {

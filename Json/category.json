@@ -97,7 +97,7 @@
           "name": "Aporocactus flagelliformis",
           "price": 1800,
           "m_descrip": "Stems ascending, later prostrate or pendent, profusely branching at base, 1–2 m long or more, 8–24 mm thick; ribs 7-14, obtuse; margins ± tuberculate; areoles minute, whitish; internodes 4–8 mm; spines 8-20, 3-8 (-10) mm long, bristle-like, yellowish to brownish; epidermis green, later grayish. Flowers zygomorphic, 7–10 cm long, 2-4 (-7,5) cm wide, limb bilaterally symmetric, oblique, diurnal, open for 3–5 days, scentless; pericarpel greenish with acute bracteoles; receptacle 3 cm, long, curved just above pericarpel, bracteoles, brownish, acute; outer tepals linear-lanceolate, ± reflexed, 2–3 cm long, 6 mm wide, crimson; inner tepals narrowly oblong, to 10 mm wide, crimson, sometimes passing to pink along the margins; stamens white to pale pink, erect, exserted; style stigma lobes 5-7, white Fruit globose, 10–12 mm long, red, bristly, pulp yellowish; seeds ovoid, brownish red.",
-          "s_description": "flowering plant in the cactus family Cactaceae",
+          "s_description": "flowering plant in the cactus family",
           "img": "cacti6.jpg"
         }
       ],
@@ -242,7 +242,7 @@
           "id": 29,
           "name": "Dahlia",
           "price": 3900,
-          "m_descrip": "Dahlia (UK: /ˈdeɪliə/ DAY-lee-ə, US: /ˈdæljə, ˈdɑːljə, ˈdeɪljə/ DA(H)L-yə, DAYL-yə)[3] is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America. As a member of the Asteraceae (synonym name: Compositae) family of dicotyledonous plants,[4] its relatives include the sunflower, daisy, chrysanthemum, and zinnia. There are 49 species of dahlia,[4] with flowers in almost every hue (except blue), with hybrids commonly grown as garden plants. Dahlias were known only to the Aztecs and other southern North American peoples until the Spanish conquest, after which the plants were brought to Europe. The (high in sugar) tubers of some varieties are of value to humans. There is also a special polysaccharide of Fructan obtained known as Inulin.",
+          "m_descrip": "Dahlia is a genus of bushy, tuberous, herbaceous perennial plants native to Mexico and Central America. As a member of the Asteraceae (synonym name: Compositae) family of dicotyledonous plants,[4] its relatives include the sunflower, daisy, chrysanthemum, and zinnia. There are 49 species of dahlia,[4] with flowers in almost every hue (except blue), with hybrids commonly grown as garden plants. Dahlias were known only to the Aztecs and other southern North American peoples until the Spanish conquest, after which the plants were brought to Europe. The (high in sugar) tubers of some varieties are of value to humans. There is also a special polysaccharide of Fructan obtained known as Inulin.",
           "s_description": " genus of bushy, tuberous",
           "img": "flower5.jpg"
         },
@@ -251,7 +251,7 @@
           "name": "Cosmos",
           "price": 2000,
           "m_descrip": "Cosmos are herbaceous perennial plants or annual plants growing 0.3–2 m (1 ft 0 in – 6 ft 7 in) tall. The leaves are simple, pinnate, or bipinnate, and arranged in opposite pairs. The flowers are produced in a capitulum with a ring of broad ray florets and a center of disc florets; flower color varies noticeably between the different species. The genus includes several ornamental plants popular in gardens. Numerous hybrids and cultivars have been selected and named.",
-          "s_description": " flowering plants in the sunflower family.[3][4]",
+          "s_description": " flowering plants in the sunflower family",
           "img": "flower6.jpg"
         }
       ],
@@ -260,7 +260,7 @@
           "id": 31,
           "name": "Hydrangea",
           "price": 1500,
-          "m_descrip": "Hydrangea (/haɪˈdreɪndʒiə/),[3] commonly named the hortensia, is a genus of more than 70 species of flowering plants native to Asia and the Americas. By far the greatest species diversity is in eastern Asia, notably China, Korea, and Japan. Most are shrubs 1–3 m (3 ft 3 in – 9 ft 10 in) tall, but some are small trees, and others lianas reaching up to 30 m (100 ft) by climbing up trees. They can be either deciduous or evergreen, though the widely cultivated temperate species are all deciduous.[4]",
+          "m_descrip": "Hydrangea commonly named the hortensia, is a genus of more than 70 species of flowering plants native to Asia and the Americas. By far the greatest species diversity is in eastern Asia, notably China, Korea, and Japan. Most are shrubs 1–3 m (3 ft 3 in – 9 ft 10 in) tall, but some are small trees, and others lianas reaching up to 30 m (100 ft) by climbing up trees. They can be either deciduous or evergreen, though the widely cultivated temperate species are all deciduous.[4]",
           "s_description": "commonly named the hortensia",
           "img": "shrub1.jpg"
         },
@@ -359,8 +359,106 @@
           "img": "tree2.webp"
         }
       ],
-      "Vines": [],
-      "Ground covers": []
+      "Vines": [
+        {
+          "id": 43,
+          "name": "Bougainvillea",
+          "price": 1100,
+          "m_descrip": "The species grow 1 to 12 metres (3 to 39 ft) tall, scrambling over other plants with their spiky thorns. They are evergreen where rainfall occurs all year, or deciduous if there is a dry season. The leaves are alternate, simple ovate-acuminate, 4–13 cm long and 2–6 cm broad. The actual flower of the plant is small and generally white, but each cluster of three flowers is surrounded by three or six bracts with the bright colours associated with the plant, including pink, magenta, purple, red, orange, white, or yellow. Bougainvillea glabra is sometimes called paper flower because its bracts are thin and papery. The fruit is a narrow five-lobed achene.",
+          "s_description": "genus of thorny ornamental vines",
+          "img": "vine1.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Wisteria",
+          "price": 1840,
+          "m_descrip": "Wisteria is a genus of flowering plants in the legume family, Fabaceae (Leguminosae). The genus includes four species of woody twining vines that are native to China, Japan, Korea, Vietnam, southern Canada, the Eastern United States, and north of Iran. They were later introduced to France, Germany and various other countries in Europe. Some species are popular ornamental plants. The genus name is also used as the English name, and may then be spelt 'wistaria'.[2][3] In some countries in Western and Central Europe, Wisteria is also known by a variant spelling of the genus in which species were formerly placed, Glycine. Examples include the French glycines, the German Glyzinie, and the Polish glicynia",
+          "s_description": " flowering plants in the legume family",
+          "img": "vine2.jpg"
+        },
+        {
+          "id": 45,
+          "name": "Hydrangea anomala",
+          "price": 2000,
+          "m_descrip": "It is a woody climbing plant, growing to 12 m height up trees or rock faces, climbing by means of small aerial roots on the stems. The leaves are deciduous, ovate, 7–13 cm long and 4–10 cm broad, with a heart-shaped base, coarsely serrated margin and acute apex. The flowers are produced in flat corymbs 5–15 cm diameter in mid-summer; each corymb includes a small number of peripheral sterile white flowers 2–3.5 cm across, and numerous small, creamy-white fertile flowers 1–2 mm diameter. The fruit is a dry urn-shaped capsule 3–5 mm diameter containing several small winged seeds.",
+          "s_description": "the Japanese climbing-hydrangea",
+          "img": "vine3.jpg"
+        },
+        {
+          "id": 46,
+          "name": "Honeysuckle",
+          "price": 3200,
+          "m_descrip": "Honeysuckles are arching shrubs or twining vines in the genus Lonicera (/lɒˈnɪsərə/[2]) of the family Caprifoliaceae. It includes 158 species[1] native to northern latitudes in North America, Eurasia, and North Africa.[1][3] Widely known species include Lonicera periclymenum (common honeysuckle or woodbine), Lonicera japonica (Japanese honeysuckle, white honeysuckle, or Chinese honeysuckle) and Lonicera sempervirens (coral honeysuckle, trumpet honeysuckle, or woodbine honeysuckle). L. japonica is a highly invasive species considered a significant pest in parts of North America, Europe, South America, Australia, and Africa.[3]",
+          "s_description": "native to northern latitudes",
+          "img": "vine4.jpg"
+        },
+        {
+          "id": 47,
+          "name": "Mandevilla",
+          "price": 4800,
+          "m_descrip": "Mandevillas develop spectacular, often fragrant flowers in warm climates.[7] The flowers come in a variety of colours, including white, pink, yellow, and red. Many hybrids have been developed, mainly deriving from M. × amabilis, M. splendens, and M. sanderi.[8] As climbers, mandevillas can be trained against a wall or trellis to provide a leafy green, and often flowering covering.",
+          "s_description": " native to the Southwestern United States",
+          "img": "vine5.jpg"
+        },
+        {
+          "id": 48,
+          "name": "Rosa setigera",
+          "price": 870,
+          "m_descrip": "R. setigera has trailing or climbing slender stems that grow up to 5 metres (15 ft) long.[4] The plant grows either as a vine or forms a sprawling thicket.[5] In open areas, the stems will arch downward after reaching a height of about 1 metre (3 ft), and where they touch the ground they will root. In areas with vegetation or other structures, the stems will tend to climb.[3] The stems are green or brown with a reddish tint and have curved prickles.[6]",
+          "s_description": "known as the climbing rose",
+          "img": "vine6.jpg"
+        }
+      ],
+      "Ground covers": [
+        {
+          "id": 49,
+          "name": "Thymus serpyllum",
+          "price": 1800,
+          "m_descrip": "Wild thyme is a creeping dwarf evergreen shrub with woody stems and a taproot. It forms matlike plants that root from the nodes of the squarish, limp stems. The leaves are in opposite pairs, nearly stalkless, with linear elliptic round-tipped blades and untoothed margins. The plant sends up erect flowering shoots in summer. The usually pink or mauve flowers have a tube-like calyx and an irregular straight-tubed, hairy corolla. The upper petal is notched and the lower one is larger than the two lateral petals and has three flattened lobes which form a lip. Each flower has four projecting stamens and two fused carpels. The fruit is a dry, four-chambered schizocarp.[4]",
+          "s_description": " common names of Breckland thyme",
+          "img": "ground1.jpg"
+        },
+        {
+          "id": 50,
+          "name": "Galium odoratum",
+          "price": 1700,
+          "m_descrip": "The leaves are simple, lanceolate, glabrous, 2–5 cm (0.79–1.97 in) long, and borne in whorls of 6–9. The small (4–7 mm diameter) flowers are produced in cymes, each white with four petals joined together at the base. The fruits are 2–4 mm diameter, produced singly, and each is covered in tiny hooked bristles which help disperse them by sticking temporarily to clothing and animal fur.[9][10] This plant prefers partial to full shade in moist, rich soils. In dry summers it needs frequent watering. Propagation is by crown division, separation of the rooted stems, or digging up of the barely submerged perimeter stolons. It is ideal as a groundcover or border accent in woody, acidic gardens where other shade plants fail to thrive. Deer and chickens avoid eating it (Northeast US).",
+          "s_description": " the sweet woodruff",
+          "img": "ground2.jpg"
+        },
+        {
+          "id": 51,
+          "name": "Phlox stolonifera",
+          "price": 2200,
+          "m_descrip": "Phlox stolonifera (creeping phlox or moss phlox) is a species of flowering plant in the family Polemoniaceae. It is a perennial herbaceous plant that is native to the eastern United States.[1] It occurs in woodlands and stream banks[1] in the vicinity of the Appalachian Mountains from Pennsylvania south to northern Georgia. Naturalized populations occur as far north as Québec, Canada",
+          "s_description": " species of flowering plant ",
+          "img": "ground3.jpg"
+        },
+        {
+          "id": 52,
+          "name": "Ophiopogon japonicus",
+          "price": 4700,
+          "m_descrip": "It is grown as an ornamental plant, providing excellent groundcover. Several cultivars have been selected, including 'Albus' (white flowers), 'Compactus' and 'Kyoto Dwarf' (dwarf forms, not over 4–5 cm tall), and 'Silver Mist' (variegated, with white-striped leaves). It is often sold as a decorative plant for freshwater aquaria, but because it is not a true aquatic plant, it can only live for a few months underwater before it dies. While hardy to temperatures of about – 20°C when dormant in winter outdoors in normal soil, when kept fully submerged, it requires water temperatures of 18–25°C. It grows well in full sun or partial shade. Propagation is from side shoots",
+          "s_description": "species of Ophiopogon",
+          "img": "ground4.jpg"
+        },
+        {
+          "id": 53,
+          "name": "Pachysandra terminalis",
+          "price": 1200,
+          "m_descrip": "Japanese spurge or Pachysandra is a broadleaf evergreen, herbaceous perennial or ground cover in the boxwood family (Buxaceae). Native to Japan and northern central China, it grows 6 to 12 inches high and 12 to 18 inches wide. Pachysandra does best in part shade to full shade and is intolerant of full sun as foliage bleaches in full sun or high wind. It thrives in the sun-dappled shade that large trees provide. Even though pachysandra can tolerate drought conditions, it prefers moist, slightly acidic soils that have high organic matter and are well drained. This plant is often utilized as ground cover. Establishing a ground cover takes about three years in suitable climates when new plantings are spaced 6 to 12 inches apart. If pachysandra has experienced problems with leaf blight, plant thinning is recommended to promote good air circulation. Additionally, overhead watering should be avoided.",
+          "s_description": "Pachysandra is a broadleaf evergreen",
+          "img": "ground5.jpg"
+        },
+        {
+          "id": 54,
+          "name": "Juniperus horizontalis",
+          "price": 2400,
+          "m_descrip": "Living up to both its scientific and common names, the species reaches only 10–30 centimetres (3+7⁄8–11+3⁄4 in) tall but often spreading several metres wide. The shoots are slender, 0.7–1.2 millimetres (1⁄32–1⁄16 in) diameter. The leaves are arranged in opposite decussate pairs, or occasionally in whorls of three; the adult leaf blades are scale-like, 1–2 mm long (to 8 mm on lead shoots) and 1–1.5 mm (1⁄32–1⁄16 in) broad, and derive from an adnate petiole. The juvenile leaves (on young seedlings only) are needle-like, 5–10 mm (3⁄16–3⁄8 in) long. The cones are berry-like, globose to bilobed, 5–7 mm (3⁄16–9⁄32 in) in diameter, dark blue with a pale blue-white waxy bloom, and contain two seeds (rarely one or three); they usually have a curved stem and are mature in about 18 months. The male cones are 2–4 mm (3⁄32–5⁄32 in) long, and shed their pollen in early spring. It is dioecious, producing cones of only one sex on each plant.",
+          "s_description": "spreading several metres wide",
+          "img": "ground6.jpg"
+        }
+      ]
     }
   ],
   "Seeds and Bulbs": [
@@ -569,11 +667,260 @@
   ],
   "Plant Care Products": [
     {
-      "Soil and compost": [],
-      "Fertilizers": [],
-      "Plant food": [],
-      "Pots and planters": [],
-      "Watering cans and misters": []
+      "Soil and compost": [
+        {
+          "id": 79,
+          "name": "Potting Soil",
+          "price": 2000,
+          "m_descrip": "Bar Harbor Blend Organic & Natural Potting Soil is the perfect soil for potting plants, flowers, herbs, or vegetables in pots, hanging baskets, raised beds, planter boxes, or any other growing container. The carefully formulated blend provides balanced water retention, drainage, and aeration to promote long and lush growth—whether it's for that single special flower on your counter or a greenhouse full of your favorite potted plants.",
+          "s_description": "Bar Harbor Blend Organic...",
+          "img": "soil.jpg"
+        },
+        {
+          "id": 80,
+          "name": "Raised Bed Mix",
+          "price": 2200,
+          "m_descrip": "Castine Blend Organic & Natural Raised Bed Mix is specially formulated for robust raised-bed garden growth during the plant life cycle. This ready-to-use blend is enriched with worm castings, mycorrhizae, biochar, greensand, kelp meal, and lobster and crab shell meal. Its dynamic mix of ingredients provides the structure, water retention, drainage, and aeration for growing strong, vigorous vegetables, herbs, and flowers in raised beds, planter boxes, or any other container gardens. That broad range of benefits supports the biodiverse living soil that nurtures the richest results.",
+          "s_description": "Castine Blend Organic & Natural...",
+          "img": "soil2.jpg"
+        },
+        {
+          "id": 81,
+          "name": "Lobster Compost",
+          "price": 1100,
+          "m_descrip": "Quoddy Blend Organic & Natural Compost with Lobster & Crab is our locally renowned “seafood” compost. Its crustacean shells are nurtured in our home state’s cold, dark waters, granting the botanical benefits in this multi-use mix that first established Coast of Maine’s fame. This precisely-balanced formulation helps revitalize soil and provides the needed balance of water retention, drainage, and aeration. It’s ideal for maintaining gardens, beds, and borders, and nurturing the robust growth of vegetables, flowers, and foliage.",
+          "s_description": "Quoddy Blend Organic & Natural...",
+          "img": "soil3.jpg"
+        },
+        {
+          "id": 82,
+          "name": "In-Ground Garden Soil",
+          "price": 3000,
+          "m_descrip": "Cobscook Blend Organic & Natural In-Ground Garden Soil is crafted specifically for all of your planting bed and garden needs. This multi-use soil amendment is carefully formulated to provide the optimum balance of soil structure, water retention, drainage, and aeration for growing vegetables, roses, annuals, and perennials. It’s the go-to living soil to turn to when planting vegetables, plants, and flowers directly in the ground.",
+          "s_description": "Cobscook Blend Organic...",
+          "img": "soil4.jpg"
+        },
+        {
+          "id": 83,
+          "name": "Blac Earth lawn Soil",
+          "price": 1500,
+          "m_descrip": "Monhegan Blend Organic & Natural Black Earth Lawn Soil is the ideal organic and natural approach to lawn care and reconditioning. This precisely formulated lawn soil can be used for topdressing, new or overseeding projects, patching and filling holes, and can also be used in beds and gardens. Its carefully formulated balance of structure, water retention, drainage, and aeration creates the rich soil that can support the beautiful lawn your home deserves.",
+          "s_description": "Monhegan Blend Organic &...",
+          "img": "soil5.jpg"
+        },
+        {
+          "id": 84,
+          "name": "Roses and flowers",
+          "price": 2500,
+          "m_descrip": "Organic & Natural Planting Soil for Roses & Flowers, the ideal planting mix to improve and revitalize the soil in and around all of your rose varieties, flowers, and perennials. This blend can be used for planting both in containers and in flower beds. Made with premium compost, sphagnum peat moss and aged bark, providing the perfect light weight soil mix for your beautiful blooms.",
+          "s_description": "Organic & Natural Planting...",
+          "img": "soil6.jpg"
+        }
+      ],
+      "Fertilizers": [
+        {
+          "id": 85,
+          "name": "GRANULATED ORGANIC FERTILIZER - FOR GARDEN VEGETABLES",
+          "price": 2500,
+          "m_descrip": "Organic-mineral fertiliser ‘Organic way OM 6-3-4’ meets all the basic plant nutritional needs, enriches the soil with organic matter and stimulates its microbiological activity. Farmers have long known that only healthy soil can produce a healthy and abundant harvest. Organic matter is derived from high-origin chicken manure compost. Balanced fertiliser can be used to fertilise all the vegetables grown outdoors or in the greenhouse, such cabbage, onions, carrots, cucumbers, pumpkins, herbs, etc...",
+          "s_description": "Organic-mineral fertiliser...",
+          "img": "fertilizer1.jpg"
+        },
+        {
+          "id": 86,
+          "name": "ZINC ORGANIC FERTILISER WITH PLANT EXTRACT",
+          "price": 2200,
+          "m_descrip": "EAGLE is a fertiliser enriched with an essential element-zinc. Zinc promotes phytohormone and protein synthesis to boost growth of new shoots. Citrus plant extract has a characteristic smell that repels some species. The product is safe for plants and animals. Method of use: Dilute 50-100 ml of this solution with 10 litres of water. Water or spray soil / loan around the plants a week before harvest maturation begins. Use once per week until harvesting. The dose is recommended per are.",
+          "s_description": "EAGLE is a fertiliser...",
+          "img": "fertilizer2.jpg"
+        },
+        {
+          "id": 87,
+          "name": "SILICON FERTILISER",
+          "price": 1100,
+          "m_descrip": "SILICON is a liquid silicon and potassium based fertiliser enriched with low molecular weight carboxylic acids that facilitate fertiliser supply to plants. Sufficient silicon content ensure thick cell walls in plants to boost physical strength and resistance to diseases and pests.Method of use and doses: use SILICON fertiliser from the very beginning of growth every two weeks. Watering: 5-10ml / 1l of water spraying: 1–3 ml / 1l of water.",
+          "s_description": "SILICON is a liquid silicon...",
+          "img": "fertilizer3.jpg"
+        },
+        {
+          "id": 88,
+          "name": "COMPO Liquid Fertilizer for Flowering Plants",
+          "price": 3000,
+          "m_descrip": "Transform your garden into a vibrant display of color and vitality with COMPO Liquid Fertilizer for Flowering Plants. This premium-quality liquid fertilizer is expertly crafted to enhance the growth, health, and blooming potential of your flowering plants. Whether you're cultivating a lush garden bed or nurturing indoor blossoms, this fertilizer provides the essential nutrients needed for exceptional flowering results Boost the beauty and vitality of your flowering plants with COMPO Liquid Fertilizer, specially formulated to promote lush blooms and vibrant growth. This high-quality liquid fertilizer delivers essential nutrients directly to your plants' roots, ensuring they receive optimal nourishment for stunning flowers and robust health.",
+          "s_description": "Transform your garden into...",
+          "img": "fertilizer4.jpg"
+        },
+        {
+          "id": 89,
+          "name": "COMPO Fertilizer Sticks for Green Plants",
+          "price": 1500,
+          "m_descrip": "COMPO Fertilizer Sticks are formulated to deliver a balanced mix of essential nutrients directly to the roots of your green plants. Each stick is engineered to release nutrients gradually over an extended period, ensuring continuous nourishment and reducing the need for frequent applications Achieve lush, healthy, and vibrant green foliage with COMPO Fertilizer Sticks, specifically designed to nourish and support the growth of your green plants. These convenient and effective sticks provide a steady release of essential nutrients, ensuring that your plants receive consistent and balanced nourishment throughout their growth cycle.",
+          "s_description": "COMPO Fertilizer Sticks are...",
+          "img": "fertilizer5.jpg"
+        },
+        {
+          "id": 90,
+          "name": "COMPO BIO Fertilizer for Garden",
+          "price": 2500,
+          "m_descrip": "Elevate the health and productivity of your garden with COMPO BIO Fertilizer for Garden, an eco-friendly and sustainable choice designed to nourish your plants while supporting a thriving ecosystem. This premium organic fertilizer is formulated to enhance soil fertility, promote robust plant growth, and ensure abundant yields, all while being gentle on the environment. COMPO BIO Fertilizer is made from high-quality natural ingredients, ensuring that your garden receives the best possible care without synthetic chemicals. It supports organic gardening practices by improving soil health and promoting biodiversity.",
+          "s_description": "Elevate the health and...",
+          "img": "fertilizer6.jpg"
+        }
+      ],
+      "Plant food": [
+        {
+          "id": 91,
+          "name": "Miracle-Gro Pour and Feed Liquid, 1L",
+          "price": 2000,
+          "m_descrip": "Miracle-Gro Pour and Feed provides a balanced blend of essential nutrients, including nitrogen, phosphorus, and potassium. These nutrients work in harmony to support all stages of plant growth The liquid formula ensures fast nutrient uptake, giving plants an immediate boost. You'll notice quicker and more noticeable results compared to traditional granular fertilizers, making it ideal for gardeners who want to see instant improvements.",
+          "s_description": "Miracle-Gro Pour and...",
+          "img": "plant.jpg"
+        },
+        {
+          "id": 92,
+          "name": "Miracle-Gro Pump & Feed' All Purpose, 200 ml",
+          "price": 2200,
+          "m_descrip": "Transform your garden into a vibrant oasis with Miracle-Gro Pump & Feed All Purpose Plant Food. This convenient and efficient plant food is designed to cater to a wide range of plants, ensuring they receive essential nutrients for optimal growth and blooming. Perfect for busy gardeners, the 200 ml bottle is ideal for small to medium-sized gardens and indoor plants The innovative pump design ensures precise and mess-free application. One pump delivers the exact amount needed for effective feeding",
+          "s_description": "Transform your garden into...",
+          "img": "plant2.jpg"
+        },
+        {
+          "id": 93,
+          "name": "envii SeaFeed Xtra Organic Liquid",
+          "price": 1100,
+          "m_descrip": "Enhance your garden’s health and vitality with Envii SeaFeed Xtra, a premium organic liquid plant food derived from natural seaweed extracts. This highly effective fertilizer is designed to promote robust growth, improve soil health, and boost plant resilience. Ideal for a variety of plants, from vegetables to ornamental flowers, SeaFeed Xtra provides a natural solution for achieving a flourishing garden.",
+          "s_description": "Enhance your garden’s health...",
+          "img": "plant3.jpg"
+        },
+        {
+          "id": 94,
+          "name": "Indoor Plant Food Spike",
+          "price": 3000,
+          "m_descrip": "Indoor Plant Food Spikes deliver a comprehensive blend of essential nutrients to support optimal plant health Give your indoor plants the steady, balanced nutrition they need with Indoor Plant Food Spikes. These convenient spikes are designed to provide essential nutrients directly to the root zone, ensuring your houseplants thrive with minimal effort. Perfect for busy plant enthusiasts, these spikes simplify the feeding process while promoting healthy growth and vibrant foliage.",
+          "s_description": "Indoor Plant Food Spikes...",
+          "img": "plant4.jpg"
+        },
+        {
+          "id": 95,
+          "name": "Miracle-Gro All Purpose Water Soluble Tub",
+          "price": 1500,
+          "m_descrip": "Miracle-Gro All Purpose Plant Food features a balanced blend of essential nutrients, including nitrogen, phosphorus, and potassium, in an N-P-K ratio of 24-8-16. This formula supports all stages of plant growth, from initial development to flowering and fruiting Elevate the health and vibrancy of your garden with Miracle-Gro All Purpose Water Soluble Plant Food. This versatile and easy-to-use fertilizer is designed to provide essential nutrients to a wide variety of plants, ensuring robust growth, lush foliage, and abundant blooms. Ideal for both new and established plants, this plant food is a staple for gardeners seeking exceptional results with minimal effort.",
+          "s_description": "Miracle-Gro All Purpose...",
+          "img": "plant5.jpg"
+        },
+        {
+          "id": 96,
+          "name": "Miracle-Gro Performance Organics",
+          "price": 2500,
+          "m_descrip": "Made with high-quality organic materials, Miracle-Gro Performance Organics provides a natural, eco-friendly option for plant nutrition. It combines the best of both organic and traditional fertilization methods to enhance plant health and soil vitality Achieve a lush, vibrant garden with Miracle-Gro Performance Organics All Purpose Liquid Plant Food. This advanced formula combines the benefits of organic ingredients with the effectiveness of traditional plant food to deliver exceptional results.",
+          "s_description": "All Purpose Liquid Made with high-quality...",
+          "img": "plant6.jpg"
+        }
+      ],
+      "Pots and planters": [
+        {
+          "id": 97,
+          "name": "Elegant Planter Pot With Sparrow - White",
+          "price": 4000,
+          "m_descrip": "Transform your space with elegance and charm with our Elegant Planter Pot adorned with a graceful sparrow motif.This exquisite piece beautifully marries nature and style, making it the perfect addition to your decor. Elevate your plant display and create a serene oasis in your home with this beautifully designed planter pot. Let the sparrow bring a touch of nature's grace to your living space.",
+          "s_description": "Transform your space with...",
+          "img": "pot.jpg"
+        },
+        {
+          "id": 98,
+          "name": "Elegant Black Planter Pot",
+          "price": 2200,
+          "m_descrip": "A stylish black planter pot adorned with a charming dotted pattern, perfect for enhancing indoor spaces. Its sleek design adds a touch of modern elegance to any room, while its durable construction ensures longevity. Elevate your plant decor with this eye-catching, contemporary planter pot Elevate your indoor and outdoor decor with the Elegant Black Planter Pot, a stylish and versatile addition to any home or garden. Crafted with a sleek and modern design, this planter pot combines aesthetic appeal with functionality, making it the perfect choice for showcasing your favorite plants.",
+          "s_description": "Castine Blend Organic & Natural...",
+          "img": "pot2.jpg"
+        },
+        {
+          "id": 99,
+          "name": "Chilling on Floor Planter Pot - Black",
+          "price": 1100,
+          "m_descrip": "Introducing our exclusive collection of stylish and beautiful planters, designed to elevate your home decor. Available only at Needs Store, these planters are the perfect blend of functionality and aesthetic appeal Crafted with utmost care and attention to detail, our planters are made from high-quality materials that ensure durability and longevity. The sleek and modern designs are meant to seamlessly integrate into any home style, adding a touch of elegance to your living spaces.",
+          "s_description": "Introducing our exclusive...",
+          "img": "pot3.jpg"
+        },
+        {
+          "id": 100,
+          "name": "GoldMan Planter Pot - Gold",
+          "price": 3000,
+          "m_descrip": "GoldMan Planter Pot Introducing our exclusive collection of stylish and beautiful planters, designed to elevate your home decor. Available only at Needs Store, these planters are the perfect blend of functionality and aesthetic appeal.Crafted with utmost care and attention to detail, our planters are made from high-quality materials that ensure durability and longevity. The sleek and modern designs are meant to seamlessly integrate into any home style, adding a touch of elegance to your living spaces.",
+          "s_description": "Gold Man Planter Pot...",
+          "img": "pot4.jpg"
+        },
+        {
+          "id": 101,
+          "name": "Pink & Green Planter Pot",
+          "price": 1500,
+          "m_descrip": "Pink & Green Planter Pot Introducing our exclusive collection of stylish and beautiful planters, designed to elevate your home decor. Available only at Needs Store, these planters are the perfect blend of functionality and aesthetic appeal. Crafted with utmost care and attention to detail, our planters are made from high-quality materials that ensure durability and longevity. The sleek and modern designs are meant to seamlessly integrate into any home style, adding a touch of elegance to your living spaces.",
+          "s_description": "Pink & Green Planter Pot...",
+          "img": "pot5.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Chilling on Floor Planter Pot - Gold",
+          "price": 2500,
+          "m_descrip": "Chilling on Floor Planter Pot - Gold Introducing our exclusive collection of stylish and beautiful planters, designed to elevate your home decor. Available only at Needs Store, these planters are the perfect blend of functionality and aesthetic appeal Crafted with utmost care and attention to detail, our planters are made from high-quality materials that ensure durability and longevity. The sleek and modern designs are meant to seamlessly integrate into any home style, adding a touch of elegance to your living spaces.",
+          "s_description": "Chilling on Floor Planter...",
+          "img": "pot6.jpg"
+        }
+      ],
+      "Watering cans and misters": [
+        {
+          "id": 103,
+          "name": "The Fazeley Flow Houseplant Set",
+          "price": 1700,
+          "m_descrip": "Expertly handcrafted and built to last, our metal watering cans take more than 200 steps to make.It’s traditional British engineering at its finest, and all happens in our workshop in Smethwick, West Midlands. Here’s how everything comes together.",
+          "s_description": "The Fazeley Flow is the perfect..",
+          "img": "wateringcan&misters1.jpg"
+        },
+        {
+          "id": 104,
+          "name": "AKERBAR Watering Can",
+          "price": 2000,
+          "m_descrip": "Get ready for the growing season! The ÅKERBÄR series helps you fill your home with flowers, herbs and other plants. The low weight makes the products easy to move – even when there are plants in them.",
+          "s_description": "You can store water or a nutrient..",
+          "img": "wateringcan&misters2.jpg"
+        },
+
+        {
+          "id": 105,
+          "name": "Fiskars Plant Mister",
+          "price": 900,
+          "m_descrip": "Fiskars Plant Mister Spray Bottle delivers a fine, even mist to indoor plants, outdoor plants and succulents Ideal for hydrating delicate plants and for cleaning debris from broad leaves Durable, lightweight, resin body is made of 30% post-consumer recycled plastic Fiskars Plant Mister features a locking nozzle and a comfortable body and trigger",
+          "s_description": "Fine Mist for Indoor or Outdoor ...",
+          "img": "wateringcan&misters3.jpg"
+        },
+
+        {
+          "id": 106,
+          "name": "Handheld Garden Pump Sprayer",
+          "price": 1700,
+          "m_descrip": "MRPAPA Sprayer bottle is made of premium PP ,hand pump rod made of alloy , light and durable. Tips: When Pump up and down to build up pressure spray bottle for plants, stop pump rod when feel rod up.  Adjustable quality brass nozzle -From direct jet to fine mist jet, you only need to rotate the front part of the nozzle. 2L Capacity Mister spray bottle available for mostly application in life.",
+          "s_description": "Lawn & Garden Pressure Water Spray...",
+          "img": "wateringcan&misters4.jpg"
+        },
+
+        {
+          "id": 107,
+          "name": "Portable Water Mister Spray Bottle",
+          "price": 1200,
+          "m_descrip": "Lightweight, one hand operated Battery Powered Sprayer without Leaking while Spraying Rotating spray nozzle and press the trigger button for adjustable spray from fine mist to straight stream Spray Bottle can be tilted upside down while spraying with weighted brass mesh at the bottom of plastic tube Perfect for garden plants watering, indoor plant mister, weeding, insecticide, disinfection, alcohol, sterilization, air humidifying, glass cleaning",
+          "s_description": "One-Touch Spraying without Pumping...",
+          "img": "wateringcan&misters5.jpg"
+        },
+
+        {
+          "id": 108,
+          "name": "Gallon Watering Can ",
+          "price": 1900,
+          "m_descrip": " The contemporary watering cans can elevate and unify the look of the house. You can derive satisfaction from it thanks to the fluid line design and sophisticated aesthetic sensation. It may be used to water gardens, trees, children's baths, plant watering tanks, and other things.",
+          "s_description": "Watering Indoor Outdoor Plants...",
+          "img": "wateringcan&misters6.jpg"
+        }
+      ]
     }
   ],
   "Home Decor": [
@@ -584,7 +931,7 @@
           "name": "Peperomia Care",
           "price": 1500,
           "m_descrip": "Peperomia are incredibly easy-going, low-care houseplants–great for beginners! Native to South American rainforests, Peperomia grow in the cool understory of the rainforest. Slow-growing and compact, some varieties of Peperomia are often mistaken as succulents.",
-          "s_description": "Peperomia Plants love bright, indirect light, but protect them from direct sunlight or the leaves will burn.",
+          "s_description": "Peperomia Plants love bright...",
           "img": "terrariums1.jpg"
         },
         {
@@ -600,7 +947,7 @@
           "name": "Asparagus fern, Asparagus setaceus",
           "price": 1600,
           "m_descrip": "Asparagus setaceus, commonly called asparagus fern, is not in fact a fern. It is a bushy, evergreen, twining vine with wiry, spiny, scrambling or climbing stems that typically grow to 10-20' long.",
-          "s_description": "asparagus is a seasonal vegetable, only available in spring",
+          "s_description": "asparagus is a seasonal vegetable...",
           "img": "terrariums3.jpg"
         },
         {
@@ -608,7 +955,7 @@
           "name": "Pilea",
           "price": 1400,
           "m_descrip": "Pilea make ideal indoor plants thanks to their incredibly diverse foliage types and relatively easy-care nature. Now you’re probably scratching your head thinking you’ve never heard of this plant genus, but if you know the aluminium plant or Chinese money plant then you already know some pileas!",
-          "s_description": "pileas should be positioned in bright light but out of direct sunlight",
+          "s_description": "pileas should be positioned in ...",
           "img": "terrariums4.jpg"
         },
         {
@@ -616,7 +963,7 @@
           "name": "Creeping figs",
           "price": 1300,
           "m_descrip": "In its natural habitat, creeping fig is a climbing, woody vine that uses aerial roots to climb trees and rocks. When introduced outside its natural home, it can spread aggressively and has become invasive in some areas.",
-          "s_description": "Creeping fig is also one of the best plants for topiary",
+          "s_description": "Creeping fig is also one of the best ...",
           "img": "terrariums5.jpg"
         },
         {
@@ -624,7 +971,7 @@
           "name": "Strawberry begonia ",
           "price": 1200,
           "m_descrip": "Saxifraga stolonifera (Strawberry Begonia) Award-winning Saxifraga stolonifera (Strawberry Begonia) is a mat-forming evergreen perennial producing charming rosettes of rounded, dark green leaves adorned with pretty silver markings and reddish undersides.",
-          "s_description": "Begonia contains metabolites luteolin, B-sitosterol and quercetin.",
+          "s_description": "Begonia contains metabolites ...",
           "img": "terrariums6.jpg"
         }
       ],
@@ -642,7 +989,7 @@
           "name": "Wooden Plant Stand ",
           "price": 2200,
           "m_descrip": "out this item Triangular Design & high temperature carbonization: Considering both symmetrical aesthetics and triangle mechanics; adopts 100% Natural Solid Eucalyptus wood which has a smooth surface and a stable structure, uses artificial 300°C high temperature carbonization technology,so it's moisture-proof and solid structure make this plant stand durable and strong enough for your daily use.",
-          "s_description": "Wooden Plant Stand Multi Plant Stand is Used for Terrace Living Room Corner Balcony and Garden",
+          "s_description": "Wooden Plant Stand is Used ...",
           "img": "plantstand2.jpg"
         },
         {
@@ -650,7 +997,7 @@
           "name": " Hanging Plant Stand",
           "price": 2000,
           "m_descrip": "Make crowded shelves and tabletops a thing of the past by hanging your houseplants from your ceilings and walls. The following varieties of hanging indoor plants and their trailing stems, dangling leaves, and gracefully arching shapes will make the best use of your home's vertical spaces.",
-          "s_description": "Trailing plants are often called 'spillers' as they trail over the edge of a hanging basket or pot.",
+          "s_description": "Trailing plants are often called ...",
           "img": "plantstand3.jpg"
         },
         {
@@ -666,7 +1013,7 @@
           "name": "Ceramic Plant Stand",
           "price": 2500,
           "m_descrip": "We have crafted our flower stands with a delightful fusion of style and simplicity. Our stands are the perfect choice to showcase your blossoming blooms and create an enchanting ambiance. Elevate your floral displays effortlessly with these stunning stands, designed to complement any space.",
-          "s_description": "suitable for a wide range of plants and decorative styles",
+          "s_description": "suitable for a wide range of plants...",
           "img": "plantstand5.jpg"
         },
         {
@@ -674,7 +1021,7 @@
           "name": "Adjustable Plant Stand",
           "price": 2700,
           "m_descrip": "ADJUSTABLE & VERSATILE - Customize your décor with our indoor plant accessories! Adjust its width from 8 to 12 inches or flip it. Be it tall, large, short, or small—this wood plant stool fits your needs.",
-          "s_description": "Create your plant paradise with our easy-to-assemble plant stands",
+          "s_description": "Create your plant paradise with ...",
           "img": "plantstand6.jpg"
         }
       ],
@@ -684,7 +1031,7 @@
           "name": "Macrame Twist Plant Hanger",
           "price": 1800,
           "m_descrip": "A macrame plant hanger is a decorative hanging plant support that is made by knotting fabric or cords together.",
-          "s_description": "Hang your plant!",
+          "s_description": "Hang your plant...",
           "img": "hangingplanter1.jpg"
         },
         {
@@ -692,7 +1039,7 @@
           "name": "Ceramic Hanging Planter",
           "price": 1900,
           "m_descrip": "Perfect for trailing plants, this ceramic planter is ready to hang your favorite small plant. It is suspended by 4 sturdy leather cords, adding a soft touch and long lasting support.",
-          "s_description": "Maximizing Space with Hanging Basket Plants",
+          "s_description": "Maximizing Space with Hanging Basket...",
           "img": "hangingplanter2.jpg"
         },
         {
@@ -700,7 +1047,7 @@
           "name": "Metal Hanging Planter",
           "price": 1400,
           "m_descrip": "100% NATURAL COCO FIBRE:Hanging pots for plants outdoor is made of natural coconut fiber,it is lightweight,provides good drainage,which can help to keep plants healthy and hydrated,ensure that your plants grow well and remain healthy in their outdoor environment.",
-          "s_description": "hanging planters for outdoor",
+          "s_description": "hanging planters for outdoor...",
           "img": "hangingplanter3.jpg"
         },
         {
@@ -708,7 +1055,7 @@
           "name": " Glass Hanging Plant Terrarium",
           "price": 2300,
           "m_descrip": "Terrariums add a touch of natural beauty to any room, they’re easy to maintain, and they allow for almost unlimited creativity, all in a tiny container. This open-front design is perfect for succulents, as it allows good airflow and keeps a good amount of heat inside but prevents moisture from escaping too quickly.",
-          "s_description": "Simply add your favorite succulent soil and a beautiful plant, and the rest is up to your imagination",
+          "s_description": "Simply add your favorite succulent soil and a beautiful plant, and the rest is up to your imagination...",
           "img": "hangingplanter4.jpg"
         },
         {
@@ -716,7 +1063,7 @@
           "name": "Coconut Shell Hanging Planter",
           "price": 2200,
           "m_descrip": "Each hanging planter comes with drainage holes to keep your plant well-drained and a strong woven jute cord so you can hang them up easily. The planter is perfect for indoor and outdoor plants and is a great alternative to using plastic pots.",
-          "s_description": " 100% natural and durable.",
+          "s_description": " 100% natural and durable...",
           "img": "hangingplanter5.jpg"
         },
         {
@@ -724,7 +1071,7 @@
           "name": "Hanging Plastic Pots",
           "price": 1500,
           "m_descrip": "A plastic hanging pot is a container for plants that is suspended in the air. It is typically made of a lightweight and durable plastic, such as polyethylene or polypropylene. Hanging pots come in a variety of shapes and sizes, and can be used to grow both indoor and outdoor plants.",
-          "s_description": "Hanging Baskets Pots for Outdoor",
+          "s_description": "Hanging Baskets Pots for Outdoor...",
           "img": "hangingplanter6.jpg"
         }
       ],
@@ -734,7 +1081,7 @@
           "name": "Groovy Flower Planter",
           "price": 500,
           "m_descrip": "These bright little planters are uniquely shaped like flowers, made from ceramic and available in an assortment of colours. Suitable for any decor style, they will add a pop of colour to your space. Use as a planter or even as a jar for candy or chocolate! Versatile and stylish, we recommend displaying indoors or undercover to protect the colours.",
-          "s_description": "Ceramic Flower Planter",
+          "s_description": "Ceramic Flower Planter...",
           "img": "pots&planter1.jpg"
         },
         {
@@ -742,7 +1089,7 @@
           "name": "Lulu Pot Planter",
           "price": 1200,
           "m_descrip": "With the look of glazed ceramic, our handpainted Lulu Pot Planter is crafted from a lightweight fiberglass and resin composite and finished with a weather-resistant topcoat that resists chipping and pealing.",
-          "s_description": "use in covered, shaded area Fill to one-third capacity",
+          "s_description": "use in covered, shaded area Fill to...",
           "img": "pots&planter2.jpg"
         },
         {
@@ -750,7 +1097,7 @@
           "name": "Cactus Plants Pack",
           "price": 599,
           "m_descrip": "Cacti are plants that have succulent stems, pads or branches with scales and spines instead of leaves. Cactus pads are actually modified stems with a waxy coating. The prickly spines are modified leaves that break up the evaporative winds blowing across pad surfaces, and help shade the stem",
-          "s_description": "They grow in dry places where other plants have trouble living",
+          "s_description": "They grow in dry places where other...",
           "img": "pots&planter3.jpg"
         },
         {
@@ -758,7 +1105,7 @@
           "name": "Diamond Pattern Metal Pot Planter",
           "price": 1499,
           "m_descrip": "Enhance the look of your beloved plants by giving them a stylish place to sit with this 2-piece metal pot planter set. These planters have a contemporary modern style that is inspired by a minimalist design, making them the perfect choice to brighten up your decor. Each metal cachepot planter has a stamped diamond design available in a black or white finish.",
-          "s_description": "The plant pots are made of durable iron to ensure they last for years",
+          "s_description": "The plant pots are made of durable ...",
           "img": "pots&planter4.jpg"
         },
         {
@@ -766,7 +1113,7 @@
           "name": "Creative Wall Planter",
           "price": 1200,
           "m_descrip": "Growing plants vertically not only saves space, but it also adds a unique design element to any room. Consider choosing our Indoor/Outdoor Hanging Pot to help you add a touch of plant life to your home, office, or porch. ",
-          "s_description": "These beauties are available in small and large sizes",
+          "s_description": "These beauties are available in ...",
           "img": "pots&planter5.jpg"
         },
         {
@@ -774,7 +1121,7 @@
           "name": "Plant pot PILLUM",
           "price": 1000,
           "m_descrip": "Plant pot PILLUM pure made of powder-coated steel is the perfect choice for anyone who wants to present plants in style. Thanks to its robust construction, this planter is suitable for both indoor and outdoor use. The powder-coated finish ensures durability and protects the pot from the influences of weather.The plant can only be placed directly in the pot outdoors, indoors it serves as a planter.",
-          "s_description": "Modern plant pot made of powder-coated steel for indoor and outdoor use",
+          "s_description": "Modern plant pot made of ...",
           "img": "pots&planter6.jpg"
         }
       ],
@@ -784,7 +1131,7 @@
           "name": "Cute Round Plant Flower Pots",
           "price": 700,
           "m_descrip": "100% brand new and high quality Candy color,very nice and cute Suitable for plant flowers, plants, especially succulent. Can be detachable and stored water Practical Resin Round Garden Office Desk Home Decor Planter Plant Flower Pot This series of flower pot are very cute, with different colors, and made of high quality materials",
-          "s_description": "Garden Office Decor Planter Plastic Plant Flower Pots",
+          "s_description": "Garden Office Decor Planter Plastic...",
           "img": "decorativepots1.jpg"
         },
         {
@@ -792,7 +1139,7 @@
           "name": "Gold Electroplating Flower Pots",
           "price": 800,
           "m_descrip": "These simple gold electroplating flower pots can be the perfect choice for you. This product is made of high-quality ceramic material, can meet the sufficient growth space of plants, very suitable for planting flowers at home or office.",
-          "s_description": "Gold Electroplating Flower Pots are made of high-quality material, lightweight and durable",
+          "s_description": "Gold Electroplating Flower Pots ...",
           "img": "decorativepots2.jpg"
         },
         {
@@ -800,7 +1147,7 @@
           "name": "Artificial Flower Pot Plants",
           "price": 400,
           "m_descrip": "Artificial flowers are imitations of natural flowering plants used for commercial or residential decoration.",
-          "s_description": "A flower is the reproductive part of flowering plants",
+          "s_description": "A flower is the reproductive part of ...",
           "img": "decorativepots3.jpg"
         },
         {
@@ -808,7 +1155,7 @@
           "name": "Painterly Pots",
           "price": 850,
           "m_descrip": "Hand-painted metal pots are a unique and artistic way to add color and style to any living space. Crafted by skilled artisans. These pots can be a statement piece or a subtle accent, enhancing the aesthetic appeal of your home.",
-          "s_description": "high-quality materials, it’s both beautiful and durable",
+          "s_description": "high-quality materials, it’s both beautiful..",
           "img": "decorativepots4.jpg"
         },
         {
@@ -816,7 +1163,7 @@
           "name": "Diamond Flower Pot",
           "price": 700,
           "m_descrip": "Our flower pot has a sleek shape and a unique pattern that can add a pleasant touch to any space and improve the décor of your home or garden. It is made using eco-friendly materials, making it a great choice for environmentally conscious customers. By choosing this planter, you are not only enhancing your home & Garden but also contributing to a happier life.",
-          "s_description": "This Pot is as Adaptable as your creativity",
+          "s_description": "This Pot is as Adaptable as your creativity...",
           "img": "decorativepots5.jpg"
         },
         {
@@ -824,7 +1171,7 @@
           "name": "Fake Plant Flower Potted",
           "price": 1200,
           "m_descrip": "Artificial Plant Bonsai Fake Flower Potted Plant Decoration Home Hotel Garden Decoration Gift.Perfect as a warm gift for a housewarming or wedding event, or keep it in your own home for a touch of glamour and elegance.",
-          "s_description": "The bright color design and beautiful flowers make it very layered and attractive.",
+          "s_description": "The bright color design and beautiful flowers...",
           "img": "decorativepots6.jpg"
         }
       ]

@@ -14,7 +14,7 @@ fetch("/Json/category.json")
           document.getElementById("breadcumbdata").innerHTML = sub_cat[y];
           console.log(json[keys[i]][0][sub_cat[y]])
           for (a in json[keys[i]][0][sub_cat[y]]) {
-            data += `<div class="col-md-6 col-sm-12 col-lg-3 m-lg-4 m-md-2 m-sm-2" role="button">
+            data += `<div class="col-md-5 col-sm-12 col-lg-3 m-lg-4 m-md-2 m-sm-2 " role="button">
                <div class="card h-100 p-4 shadow" style="max-height:450px;min-height:100px;">
                         <img src="/Images/Products/${
                           json[keys[i]][0][sub_cat[y]][a].img
