@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bright World Login/Register Page</title>
-<link rel="shortcut icon" href="/Images/Logo/logo.png" type="image/x-icon">
+    <title>Bright World Login/Register Page</title>
+    <link rel="shortcut icon" href="/Images/Logo/logo.png" type="image/x-icon">
     <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
@@ -116,7 +116,7 @@
                 });;
                 return false;
             }
-            if (!input_Name.value.match(/^[a-zA-Z]+$/)) {
+            if (!input_Name.value.match(/^[a-zA-Z\s]*$/)) {
                 Swal.fire({
                     icon: "error",
                     title: "Name can only contain letters and spaces",
