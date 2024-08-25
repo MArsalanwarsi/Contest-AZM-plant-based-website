@@ -142,3 +142,8 @@ footer .container-fluid {
 .feedbackbox:hover {
   padding: 25px 20px 25px 20px;
 }
+.item .card{
+ min-height: 350px;
+ padding: 15px 15px;
+ max-height: 350px;
+}
